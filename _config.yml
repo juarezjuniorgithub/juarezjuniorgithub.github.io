@@ -1,0 +1,125 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Juarez Barbosa Junior
+title: Azure Developer Engagement Lead
+email: juarez.junior@microsoft.com
+website: https://juarezjunior.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: juarezjunior
+linkedin_username: jujunior
+github_username:  juarezjuniorgithub
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: juarez8junior8
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: JuarezJuniorComputing
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Sessionize
+  icon: fas fa-globe
+  url: https://sessionize.com/juarezjunior
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello, I’m Juarez Junior, Azure Developer Relations Lead at Microsoft. Previously, a Principal Developer Advocate - Blockchain at Oracle, Thought Leader and Technical Evangelist at IBM.
+
+ My current interests are: <mark>Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, SolutionsArchitecture, SoftwareArchitecture, Startups, EmergingTechs</mark>
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: My GitHub Projects
+        link: github.com/juarezjuniorgithub
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           Code samples, snippets, components, tutorial examples, self-learning stuff. 
+        description: | # this will include new lines to allow paragraphs
+          Java, Golang, Python, Docker, Hyperledger, Android and others.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Microsoft
+        link: www.microsoft.com
+        # link_text: boringcompany.com
+        sub_title: Azure Developer Engagement Lead
+        caption: July 2010 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer marketing programs, customer and social media interactions, online and in-person events like webinars, technical workshops, conferences, hackathons, training and certification events, and local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events organization and promotion.
+
+  #- title: Education # Title for the section
+    #layout: list # Type of content section (list/text)
+    #content:
+      #- layout: left
+      #  title: Harvard University
+      #  caption: 2010 - 2013
+      #  sub_title: BSc Computer Science
+      #  quote: >
+      #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      #  description: | # this will include new lines to allow paragraphs
+      #    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+      #    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Hightlights
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Awards, technical certifications, diplomas and courses:
+      - IBM Mobile Thought Leader and Technical Evangelist
+      - IBM Redbooks Author      
+      - [Developer Advocacy - Talks](https://sessionize.com/juarezjunior)
+        
+      ![Trees](/modern-resume-theme/images/Juarez-Photo-2.jpg "Juarez Junior")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
