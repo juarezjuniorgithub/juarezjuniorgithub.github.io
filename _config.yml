@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Juarez Barbosa Junior
 title: Azure Developer Engagement Lead
-email: juarez.junior@microsoft.com
+email: juarez.barbosa@gmail.com
 website: https://juarezjunior.github.io/
 
 # Dark Mode (true/false/never)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I’m Juarez Junior, Azure Developer Relations Lead at Microsoft. Previously, a Principal Developer Advocate - Blockchain at Oracle, Thought Leader and Technical Evangelist at IBM.
+  Hello, I’m Juarez Junior, <mark>Azure Developer Engagement Lead</mark> at Microsoft. Previously, a <mark>Principal Developer Advocate - Blockchain</mark> at Oracle and, <mark>Thought Leader and Technical Evangelist</mark> at IBM.
 
- My current interests are: <mark>Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, SolutionsArchitecture, SoftwareArchitecture, Startups, EmergingTechs</mark>
+  My current interests are: Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, SolutionsArchitecture, SoftwareArchitecture, Startups, Emerging Technologies.
 
 content:
   - title: Projects # Title for the section
