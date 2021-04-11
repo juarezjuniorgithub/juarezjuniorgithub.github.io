@@ -90,6 +90,13 @@ content:
       - IBM Redbooks Author      
       - [Developer Advocacy - Sessionize](https://sessionize.com/juarezjunior)      
   
+  - title: Talks
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Developer and customer engagement talks:       
+      - [Microsoft DevOps Forum](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
+      - [Azure Blockchain Zürich - Introduction to Blockchain and Blockchain on Azure](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
+        
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -107,16 +114,7 @@ content:
         quote: >
            Code samples, snippets, components, tutorial examples, self-learning stuff. 
         description: | # this will include new lines to allow paragraphs
-          Java, Golang, Python, Docker, Hyperledger, Android and others.
-  
-  - title: Talks
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Recent talks:       
-      - [Microsoft DevOps Forum](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
-      - [Azure Blockchain Zürich - Introduction to Blockchain and Blockchain on Azure](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
-        
-      ![Talks](images/Juarez-Photo-2.jpg "Juarez Junior")
+          Java, Golang, Python, Docker, Hyperledger, Android and others.    
     
 # Footer
 footer_show_references: false
