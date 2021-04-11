@@ -53,25 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   My current interests are: Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, SolutionsArchitecture, SoftwareArchitecture, Startups, Emerging Technologies.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: My GitHub Projects
-        link: github.com/juarezjuniorgithub
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-           Code samples, snippets, components, tutorial examples, self-learning stuff. 
-        description: | # this will include new lines to allow paragraphs
-          Java, Golang, Python, Docker, Hyperledger, Android and others.
-
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,17 +81,43 @@ content:
       #    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
       #    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+    
   - title: Highlights
     layout: text
     content: | # this will include new lines to allow paragraphs
       Awards, technical certifications, diplomas and courses:
       - IBM Mobile Thought Leader and Technical Evangelist
       - IBM Redbooks Author      
-      - [Developer Advocacy - Talks](https://sessionize.com/juarezjunior)
+      - [Developer Advocacy - Sessionize](https://sessionize.com/juarezjunior)      
+  
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: My GitHub Projects
+        link: github.com/juarezjuniorgithub
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           Code samples, snippets, components, tutorial examples, self-learning stuff. 
+        description: | # this will include new lines to allow paragraphs
+          Java, Golang, Python, Docker, Hyperledger, Android and others.
+  
+  - title: Talks
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Recent talks:       
+      - [Microsoft DevOps Forum](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
+      - [Azure Blockchain Zürich - Introduction to Blockchain and Blockchain on Azure](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
         
       ![Talks](images/Juarez-Photo-2.jpg "Juarez Junior")
-
+    
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
