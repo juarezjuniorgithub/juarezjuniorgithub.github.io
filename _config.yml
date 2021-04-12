@@ -92,11 +92,12 @@ content:
       - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
       - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)   
       - [Blockchain Solution Architecture for retraced.co](https://www.linkedin.com/feed/update/urn:li:activity:6512212464250167296/)    
+      - [JavaRanch Forum](https://coderanch.com/u/27811/Juarez-Alvares-Barbosa-Junior)
   
   - title: Talks
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Developer and customer engagement talks:
+      Developer and customer engagements:
       - [Developer Advocacy - Sessionize](https://sessionize.com/juarezjunior)
       - [Microsoft TechX - Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1462051d571&varPage=agenda)
       - [Microsoft TechX - Highlights by Version 1](https://www.version1.com/nw-cld-maz-highlights-from-microsoft-techx-dublin/)
@@ -116,6 +117,7 @@ content:
       - [Blockchain Series - Introduction to Blockchain and Blockchain on Azure](https://www.youtube.com/watch?v=hPZl75H_794) 
       - [Blockchain Series - Quorum on Azure Blockchain](https://www.youtube.com/watch?v=16jAb6j2uSk) 
       - [Blockchain Series - Hyperledger on Azure Blockchain](https://www.youtube.com/watch?v=3iCSU8kHZkI) 
+      - [Blockchain Ireland - Developer's Working Group - Introduction to Blockchain and Blockchain on Azure](https://www.linkedin.com/feed/update/urn:li:activity:6778341966645145600/)
       - [Cloud Conference Day - Introduction to Azure Spring Cloud](https://www.linkedin.com/feed/update/urn:li:activity:6783021199669637120/) 
       - [One Hackathon - Judges Panel](https://www.incubateind.com/hack/onehack/portugalandUkraine)
       - [Blockchain SIG - Oracle EMEA](https://www.linkedin.com/feed/update/urn:li:activity:6400694651598233600/)
@@ -139,7 +141,7 @@ content:
       - [Webinars: Transformational Technologies of Today – Blockchain and IoT](https://www.linkedin.com/pulse/transformational-technologies-today-blockchain-iot-juarez-junior/)
       - [CONADEV - Situação e Perspectivas Tecnologias Mobile](https://www.youtube.com/watch?v=Qs8JrDFYDow)
       - [MGJUG - S60 para Java - MSA e Java ME em Smartphones](https://www.guj.com.br/t/mgjug-tech-meeting-evento-gratuito-em-bh/254261)
-      - [JavaRanch Forum](https://coderanch.com/u/27811/Juarez-Alvares-Barbosa-Junior)
+      
           
 # Footer
 footer_show_references: false
