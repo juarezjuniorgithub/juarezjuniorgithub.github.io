@@ -34,6 +34,9 @@ additional_links:
 - title: Sessionize
   icon: fas fa-globe
   url: https://sessionize.com/juarezjunior
+- title: Medium
+  icon: fas fa-globe
+  url: https://juarezjunior.medium.com/ 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
