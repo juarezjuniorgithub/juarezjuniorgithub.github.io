@@ -93,29 +93,11 @@ content:
   - title: Talks
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Developer and customer engagement talks:       
-      - [Microsoft DevOps Forum](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
+      Developer and customer engagement talks:     
       - [Azure Blockchain Zürich - Introduction to Blockchain and Blockchain on Azure](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
-        
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: My GitHub Projects
-        link: github.com/juarezjuniorgithub
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-           Code samples, snippets, components, tutorial examples, self-learning stuff. 
-        description: | # this will include new lines to allow paragraphs
-          Java, Golang, Python, Docker, Hyperledger, Android and others.    
-    
+      - [Microsoft DevOps Forum - DevOps with GitHub](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html)
+      - [Shift Conference - Devops with Azure Devops and Github](https://www.slideshare.net/shiftconf/shift-remote-devops-devops-with-azure-devops-and-github-juarez-junior-microsoft)
+          
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
