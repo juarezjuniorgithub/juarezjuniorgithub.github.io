@@ -113,7 +113,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Developer Relations - Presentations and Customer Engagements
-      - [Developer Advocacy - Sessionize](https://sessionize.com/juarezjunior)
+      - [DevRel - Sessionize](https://sessionize.com/juarezjunior)
+      - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
+      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1)
       - [Microsoft TechX - Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1462051d571&varPage=agenda)
       - [Microsoft TechX - Highlights by Version 1](https://www.version1.com/nw-cld-maz-highlights-from-microsoft-techx-dublin/)
       - [Microsoft TechX - Event Report by Version 1](https://medium.com/version-1/a-day-at-microsoft-techx-dublin-28a7abb71c9c)
