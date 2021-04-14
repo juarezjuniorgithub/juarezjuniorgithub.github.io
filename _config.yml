@@ -273,7 +273,7 @@ content:
   - title: Certs
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Certifications, Courses, Certificates, Diplomas
+      Certifications, Certificates, Diplomas, Courses
       - [Certified Java Architect](https://www.flickr.com/photos/15201803@N00/14539464525/in/dateposted-public/)     
       - [Certified Java Programmer](https://www.flickr.com/photos/15201803@N00/8550744846/in/dateposted-public/) 
       - [Certified Java Mobile Application Developer](https://www.flickr.com/photos/15201803@N00/8549643557/in/dateposted-public/) 
