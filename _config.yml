@@ -90,10 +90,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Awards - Developer Relations, Solutions Architecture, Software Architecture and Engineering 
       - [Microsoft- Event Speaker Gold](https://www.credly.com/badges/00190609-ed83-413e-a337-9bdc87db1112)
-      - [Microsoft - Event Speaker Silver](https://www.credly.com/badges/87e92b22-3c04-4332-8d3e-82eec922da2d)
-      - [Microsoft OpenHack - DevOps](https://www.credly.com/badges/63ce96f3-9a31-47b6-bbe0-4f8bfe1f6ff3)
-      - [Microsoft OpenHack - IoT Operations Gateway](https://www.credly.com/badges/6d4af926-08bf-409a-aa9a-54f0653070b9)
-      - [Microsoft OpenHack - Modern Data Warehousing](https://www.credly.com/badges/f27c83fb-1f1a-4d2f-a8c6-9326eb6ca87d)  
+      - [Microsoft - Event Speaker Silver](https://www.credly.com/badges/87e92b22-3c04-4332-8d3e-82eec922da2d)      
       - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
       - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)   
       - [Irish Government Blockchain Hackathon](https://www.youtube.com/watch?v=MRTzLKNPq14)
@@ -107,8 +104,9 @@ content:
       - [Nokia Developer Champion - 2007 - 2008](https://www.flickr.com/photos/15201803@N00/8549640289/in/set-72157632977371930)
       - [Nokia Developer Champion - 2008 - 2009](https://www.flickr.com/photos/15201803@N00/8549641595/in/set-72157632977371930)
       - [Nokia Developer Champion - 2009 - 2010](https://www.flickr.com/photos/15201803@N00/8549646971/in/set-72157632977371930)
-      - [Blockchain Solution Architecture for retraced.co](https://www.linkedin.com/feed/update/urn:li:activity:6512212464250167296/)    
-     
+      - [Microsoft OpenHack - DevOps](https://www.credly.com/badges/63ce96f3-9a31-47b6-bbe0-4f8bfe1f6ff3)
+      - [Microsoft OpenHack - IoT Operations Gateway](https://www.credly.com/badges/6d4af926-08bf-409a-aa9a-54f0653070b9)
+      - [Microsoft OpenHack - Modern Data Warehousing](https://www.credly.com/badges/f27c83fb-1f1a-4d2f-a8c6-9326eb6ca87d)  
   
   - title: Talks
     layout: text
@@ -161,6 +159,9 @@ content:
       - [Webinars: Transformational Technologies of Today – Blockchain and IoT](https://www.linkedin.com/pulse/transformational-technologies-today-blockchain-iot-juarez-junior/)
       - [CONADEV - Situação e Perspectivas Tecnologias Mobile](https://www.youtube.com/watch?v=Qs8JrDFYDow)
       - [MGJUG - S60 para Java - MSA e Java ME em Smartphones](https://www.guj.com.br/t/mgjug-tech-meeting-evento-gratuito-em-bh/254261)
+      - [Blockchain Solution Architecture for retraced.co](https://www.linkedin.com/feed/update/urn:li:activity:6512212464250167296/)    
+      - [DFJUG - Marathon for Java (M4J) - Java Certification Preparation Course - Technical English for Java Developers](https://www.flickr.com/photos/15201803@N00/albums/72157678473199848)
+      
   
   - title: Content - blog posts, slide decks, articles
     layout: text
@@ -262,6 +263,33 @@ content:
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 7: Run Notebooks with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-7-run-notebooks-with-oracle-machine-64731155a436)
       - [GDPR — the new EU General Data Protection Regulation](https://juarezjunior.medium.com/gdpr-the-new-eu-general-data-protection-regulation-d651529435ac)
   
+  - title: Certs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Certifications, Courses, Certificates, Diplomas
+      - [Certified Java Architect](https://www.flickr.com/photos/15201803@N00/14539464525/in/dateposted-public/)       
+      - [Java Instructor - Fundamentals, Advanced and JSP (Java Server Pages)](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)
+      - [Certified Java Programmer](https://www.flickr.com/photos/15201803@N00/8550744846/in/dateposted-public/) 
+      - [Certified Java Mobile Application Developer](https://www.flickr.com/photos/15201803@N00/8549643557/in/dateposted-public/) 
+      - [Certified Java Web Component Developer - Java ME MIDP, CDC and CLDC](https://www.flickr.com/photos/15201803@N00/8549643557/in/dateposted-public/)
+      - [Certified Java Associate](https://www.flickr.com/photos/15201803@N00/8550741244/in/dateposted-public/) 
+      - [Certified Java Web Component 1.4](https://www.flickr.com/photos/15201803@N00/8549640949/in/dateposted-public/) 
+      - [Certified Java Business Component Developer - EJB 3.x](https://www.flickr.com/photos/15201803@N00/8549639667/in/dateposted-public/)
+      - [JBoss Middleware Placement Exam](https://www.flickr.com/photos/15201803@N00/8549640709/in/dateposted-public/) 
+      - [IBM Certified Websphere Network Deployment (ND) Administrator - V8.0](https://www.flickr.com/photos/15201803@N00/8549641167/in/dateposted-public/) 
+      - [DFJUG Marathon for Java - M4J with Daniel de Oliveira](https://www.flickr.com/photos/15201803@N00/8550742598/in/dateposted-public/)
+      - [Java TTT (Train the Trainer) - SAP Netweaver Java EE Application Server](https://www.flickr.com/photos/15201803@N00/8550744626/in/dateposted-public/) 
+      - [Accelerated Javascript ES6 Training - IBM & Udemy](https://www.flickr.com/photos/15201803@N00/35047465795/in/dateposted-public/) 
+      - [Javascript ES6 - The Basics - IBM & Udemy](https://www.flickr.com/photos/15201803@N00/34236642463/in/dateposted-public/) 
+      - [Javascript ES6 - The Complete Developer's Guide Course - IBM &Udemy](https://www.flickr.com/photos/15201803@N00/34236642403/in/dateposted-public/)
+      - [IBM - AI - Fun with Machine Learning](https://www.flickr.com/photos/15201803@N00/34236642303/in/dateposted-public/) 
+      - [IBM - Enabling Digital Transformation with Microservices - A Customer-experience Driven Approach](https://www.flickr.com/photos/15201803@N00/34236642523/in/dateposted-public/) 
+      - [IBM - Competing Against AWS and Azure](https://www.flickr.com/photos/15201803@N00/34236642633/in/dateposted-public/)
+      - [IBM - Coding for the Cloud](https://www.flickr.com/photos/15201803@N00/34203467684/in/dateposted-public/) 
+      - [IBM - Edge IoT Computing - Where data comes Alive!](https://www.flickr.com/photos/15201803@N00/34236642583/in/dateposted-public/) 
+      - [IBM - How to connect everything to Watson IoT Platform](https://www.flickr.com/photos/15201803@N00/34236642583/in/dateposted-public/)
+      - [IBM - Bringing Chatbots to Life for your Clients](https://www.flickr.com/photos/15201803@N00/34236642583/in/dateposted-public/)
+      
 
           
 # Footer
