@@ -37,6 +37,9 @@ additional_links:
 - title: Medium
   icon: fas fa-globe
   url: https://juarezjunior.medium.com/ 
+  - title: Slideshare
+  icon: fas fa-globe
+  url: https://www.slideshare.net/juarezjunior 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
