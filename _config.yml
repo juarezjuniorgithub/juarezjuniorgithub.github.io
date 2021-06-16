@@ -425,6 +425,31 @@ content:
         quote: >
           https://www.basis.com.br/cases/
         description: | # this will include new lines to allow paragraphs 
+        
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IBM
+        link: www.ibm.com        
+        sub_title: Redbooks Thought Leader and Evangelist for IBM Mobile
+        caption: January 2013 - February 2014
+        quote: >
+          https://developer.ibm.com/components/ibm-mobile-foundation/
+        description: | # this will include new lines to allow paragraphs         
+        
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IBM
+        link: www.ibm.com        
+        sub_title: Senior IT Specialist - Technical Lead for Common Development and Test 
+        caption: January 2013 - February 2014
+        quote: >
+          https://developer.ibm.com/depmodels/cloud/
+        description: | # this will include new lines to allow paragraphs           
+        
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
