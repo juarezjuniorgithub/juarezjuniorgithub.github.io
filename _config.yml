@@ -63,8 +63,7 @@ content:
     content:
       - layout: left
         title: Microsoft
-        link: www.microsoft.com
-        # link_text: boringcompany.com
+        link: www.microsoft.com        
         sub_title: Azure Developer Engagement Lead
         caption: July 2019 - Present
         quote: >
@@ -77,14 +76,37 @@ content:
     content:
       - layout: left
         title: Oracle
-        link: www.oracle.com
-        # link_text: boringcompany.com
+        link: www.oracle.com        
         sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Director - Oracle EMEA
         caption: May 2019 - July 2019
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs
-            
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Oracle
+        link: www.oracle.com        
+        sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Manager - Oracle EMEA
+        caption: December 2018 - May 2019
+        quote: >
+          https://developer.oracle.com/
+        description: | # this will include new lines to allow paragraphs            
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Oracle
+        link: www.oracle.com        
+        sub_title: Principal Developer Advocate, Blockchain Evangelist - Oracle EMEA
+        caption: February 2018 - December 2018
+        quote: >
+          https://developer.oracle.com/
+        description: | # this will include new lines to allow paragraphs 
+
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
