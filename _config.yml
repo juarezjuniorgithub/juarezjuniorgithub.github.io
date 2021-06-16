@@ -390,6 +390,17 @@ content:
           https://www.ibm.com/watson
         description: | # this will include new lines to allow paragraphs 
 
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Maxtrack
+        link: www.maxtrack.com.br        
+        sub_title: Senior Software & DevOps Architect 
+        caption: April 2015 - August 2015
+        quote: >
+          https://maxtrack.com.br/#sobre
+        description: | # this will include new lines to allow paragraphs 
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
