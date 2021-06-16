@@ -72,6 +72,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer programs, customer and social media interactions, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events sponsorship, organization, and promotion.
   
+  - title: 
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Oracle
