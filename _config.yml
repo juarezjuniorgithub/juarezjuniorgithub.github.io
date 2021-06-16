@@ -466,7 +466,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: INdT - Nokia Technology Institute
+        title: Nokia Technology Institute
         link: https://www.indt.org.br/        
         sub_title: Senior Mobile Software Architect (Contractor)
         caption: May 2007 - November 2008
