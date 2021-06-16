@@ -70,7 +70,21 @@ content:
         quote: >
           https://developer.microsoft.com/en-ie/
         description: | # this will include new lines to allow paragraphs
-            Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer marketing programs, customer and social media interactions, online and in-person events like webinars, technical workshops, conferences, hackathons, training and certification events, and local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events organization and promotion.
+            Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer programs, customer and social media interactions, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events sponsorship, organization, and promotion.
+  
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Oracle
+        link: www.oracle.com
+        # link_text: boringcompany.com
+        sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Director - Oracle EMEA
+        caption: May 2019 - July 2019
+        quote: >
+          https://developer.oracle.com/
+        description: | # this will include new lines to allow paragraphs
+            
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
