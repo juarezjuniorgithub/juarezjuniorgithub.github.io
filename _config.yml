@@ -57,82 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
   My current interests are: Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, SolutionsArchitecture, SoftwareArchitecture, Startups, Emerging Technologies.
 
 content:
-  
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Microsoft
-        link: www.microsoft.com        
-        sub_title: Azure Developer Engagement Lead
-        caption: July 2019 - Present
-        quote: >
-          https://developer.microsoft.com/en-ie/
-        description: | # this will include new lines to allow paragraphs
-            Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer programs, customer and social media interactions, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events sponsorship, organization, and promotion.
-  
-  - title: 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Oracle
-        link: www.oracle.com        
-        sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Director - Oracle EMEA
-        caption: May 2019 - July 2019
-        quote: >
-          https://developer.oracle.com/
-        description: | # this will include new lines to allow paragraphs
-
-  - title: 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Oracle
-        link: www.oracle.com        
-        sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Manager - Oracle EMEA
-        caption: December 2018 - May 2019
-        quote: >
-          https://developer.oracle.com/
-        description: | # this will include new lines to allow paragraphs            
-
-  - title: 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Oracle
-        link: www.oracle.com        
-        sub_title: Principal Developer Advocate, Blockchain Evangelist - Oracle EMEA
-        caption: February 2018 - December 2018
-        quote: >
-          https://developer.oracle.com/
-        description: | # this will include new lines to allow paragraphs 
-
-  - title: 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: IBM
-        link: www.ibm.com        
-        sub_title: Senior Software Architect, Technology Evangelist - IBM Watson
-        caption: September 2015 - February 2018
-        quote: >
-          https://www.ibm.com/watson
-        description: | # this will include new lines to allow paragraphs 
-
-
-  #- title: Education # Title for the section
-    #layout: list # Type of content section (list/text)
-    #content:
-      #- layout: left
-      #  title: Harvard University
-      #  caption: 2010 - 2013
-      #  sub_title: BSc Computer Science
-      #  quote: >
-      #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-      #  description: | # this will include new lines to allow paragraphs
-      #    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-      #    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
     
   - title: Highlights
     layout: text
@@ -405,7 +329,81 @@ content:
       - [Microsoft OpenHack - Modern Data Warehousing](https://www.credly.com/badges/f27c83fb-1f1a-4d2f-a8c6-9326eb6ca87d)  
 
       
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Microsoft
+        link: www.microsoft.com        
+        sub_title: Azure Developer Engagement Lead
+        caption: July 2019 - Present
+        quote: >
+          https://developer.microsoft.com/en-ie/
+        description: | # this will include new lines to allow paragraphs
+            Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer programs, customer and social media interactions, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events sponsorship, organization, and promotion.
+  
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Oracle
+        link: www.oracle.com        
+        sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Director - Oracle EMEA
+        caption: May 2019 - July 2019
+        quote: >
+          https://developer.oracle.com/
+        description: | # this will include new lines to allow paragraphs
 
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Oracle
+        link: www.oracle.com        
+        sub_title: Principal Developer Advocate, Product Strategy & Developer Advocacy Manager - Oracle EMEA
+        caption: December 2018 - May 2019
+        quote: >
+          https://developer.oracle.com/
+        description: | # this will include new lines to allow paragraphs            
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Oracle
+        link: www.oracle.com        
+        sub_title: Principal Developer Advocate, Blockchain Evangelist - Oracle EMEA
+        caption: February 2018 - December 2018
+        quote: >
+          https://developer.oracle.com/
+        description: | # this will include new lines to allow paragraphs 
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IBM
+        link: www.ibm.com        
+        sub_title: Senior Software Architect, Technology Evangelist - IBM Watson
+        caption: September 2015 - February 2018
+        quote: >
+          https://www.ibm.com/watson
+        description: | # this will include new lines to allow paragraphs 
+
+
+  #- title: Education # Title for the section
+    #layout: list # Type of content section (list/text)
+    #content:
+      #- layout: left
+      #  title: Harvard University
+      #  caption: 2010 - 2013
+      #  sub_title: BSc Computer Science
+      #  quote: >
+      #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      #  description: | # this will include new lines to allow paragraphs
+      #    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+      #    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
           
 # Footer
 footer_show_references: false
