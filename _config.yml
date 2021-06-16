@@ -402,6 +402,19 @@ content:
           https://maxtrack.com.br/#sobre
         description: | # this will include new lines to allow paragraphs 
 
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Sodep Systems
+        link: www.sodep.com.br/en        
+        sub_title: Senior Android & IoT Developer / Architect 
+        caption: January 2015 - March 2015
+        quote: >
+          http://sodep.com.br/en/solucoes/
+        description: | # this will include new lines to allow paragraphs 
+
+
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
     #content:
