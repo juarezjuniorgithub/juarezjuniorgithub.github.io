@@ -467,12 +467,72 @@ content:
     content:
       - layout: left
         title: Nokia Technology Institute
-        link: https://www.indt.org.br/        
+        link: www.indt.org.br        
         sub_title: Senior Mobile Software Architect (Contractor)
         caption: May 2007 - November 2008
         quote: >
           https://www.indt.org.br/about-us
-        description: | # this will include new lines to allow paragraphs             
+        description: | # this will include new lines to allow paragraphs    
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Unisys
+        link: www.unisys.com        
+        sub_title: Lead Software Architect, Java Platforms 
+        caption: June 2003 - May 2007
+        quote: >
+          https://www.unisys.com/offerings/application-services
+        description: | # this will include new lines to allow paragraphs    
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Powerlogic (acquired by Cast Group)
+        link: www.powerlogic.com.br        
+        sub_title: Java Architect 
+        caption: October 2002 - May 2003
+        quote: >
+          https://www.castgroup.com.br/pt/
+        description: | # this will include new lines to allow paragraphs         
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Unisys
+        link: www.unisys.com        
+        sub_title: Java Security Architect (Contractor)
+        caption: November 2001 - September 2002
+        quote: >
+          https://www.unisys.com/offerings/application-services
+        description: | # this will include new lines to allow paragraphs    
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Accenture (Atan Automation Systems)
+        link: www.accenture.com        
+        sub_title: Software Developer
+        caption: February 1997 - October 2001
+        quote: >
+          https://www.accenture.com/ie-en/industries/industrial-equipment-index
+        description: | # this will include new lines to allow paragraphs  
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Accenture (Atan Automation Systems)
+        link: www.accenture.com        
+        sub_title: Associate Software Developer
+        caption: January 1996 - January 1997
+        quote: >
+          https://www.accenture.com/ie-en/industries/industrial-equipment-index
+        description: | # this will include new lines to allow paragraphs           
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
