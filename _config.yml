@@ -414,6 +414,17 @@ content:
           http://sodep.com.br/en/solucoes/
         description: | # this will include new lines to allow paragraphs 
 
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Basis
+        link: www.basis.com.br     
+        sub_title: Senior Software & DevOps Architect  
+        caption: May 2014 - December 2014
+        quote: >
+          https://www.basis.com.br/cases/
+        description: | # this will include new lines to allow paragraphs 
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
