@@ -107,6 +107,18 @@ content:
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs 
 
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IBM
+        link: www.ibm.com        
+        sub_title: Senior Software Architect, Technology Evangelist - IBM Watson
+        caption: September 2015 - February 2018
+        quote: >
+          https://www.ibm.com/watson
+        description: | # this will include new lines to allow paragraphs 
+
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
