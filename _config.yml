@@ -445,11 +445,34 @@ content:
         title: IBM
         link: www.ibm.com        
         sub_title: Senior IT Specialist - Technical Lead for Common Development and Test 
-        caption: January 2013 - February 2014
+        caption: October 2009 - December 2012
         quote: >
           https://developer.ibm.com/depmodels/cloud/
         description: | # this will include new lines to allow paragraphs           
-        
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Powerlogic (acquired by Cast Group)
+        link: www.powerlogic.com.br        
+        sub_title: Senior Software Architect (Java Technology Mentor) 
+        caption: December 2008 - September 2009
+        quote: >
+          https://www.castgroup.com.br/pt/
+        description: | # this will include new lines to allow paragraphs   
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: INdT - Nokia Technology Institute
+        link: https://www.indt.org.br/        
+        sub_title: Senior Mobile Software Architect (Consultant)
+        caption: May 2007 - November 2008
+        quote: >
+          https://www.indt.org.br/about-us
+        description: | # this will include new lines to allow paragraphs             
 
   #- title: Education # Title for the section
     #layout: list # Type of content section (list/text)
