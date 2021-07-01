@@ -494,7 +494,7 @@ content:
         quote: >
           https://www.unisys.com/offerings/application-services
         description: | # this will include new lines to allow paragraphs    
-
+            I acted as the Lead Software Architect for Unisys Java Platforms in the scope of their Intel-based ES7000 line of servers.  I played a role as the Architect and maintainer of their main Java development framework in LatAm called UGOFramework (Unisys Global Outsourcing framework). I architected and helped Unisys with the modernization of almost 20 systems from their COBOL mainframe-based systems to Java Enterprise Edition. This project comprised a real estate solution for CAIXA bank. At last, I supported Unisys with the validation of the JBoss Application Server (part of JBoss Group at that time, before it being acquired by Red Hat) as the Java Application Server for Unisys' line of enterprise servers.
   - title: 
     layout: list # Type of content section (list/text)
     content:
