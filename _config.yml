@@ -432,7 +432,7 @@ content:
         quote: >
           https://www.basis.com.br/cases/
         description: | # this will include new lines to allow paragraphs 
-        
+            I acted as a Software and DevOps Architect for their Java-related projects, the vast majority of them related to the public sector and solutions to top governmental institutions. The solutions comprised Java and its platforms, Jenkins, Chef, Docker, AWS, Maven, Vagrant, Linux, and other technologies.
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -444,7 +444,8 @@ content:
         quote: >
           https://developer.ibm.com/components/ibm-mobile-foundation/
         description: | # this will include new lines to allow paragraphs         
-        
+            I acted as an IBM Redbooks Thought Leader and Global Evangelist for IBM, focusing on Java, WebSphere, and Liberty software engineering and architecture. I led a team with more than 60 people and at that time, I was awarded the IBM Hall of Fame Award (3 times), IBM Common Development and Test Outstanding Contribution Award (2 times) and I helped IBM to write their very first Redbook about mobile security for their IBM Mobile Foundation Services (formerly Worklight). Besides, I acted as an advocate for the platform on social media with solid contributions to IBM's social media actions related to technical evangelism in the scope of IBM's social media advocacy. 
+            
   - title: 
     layout: list # Type of content section (list/text)
     content:
