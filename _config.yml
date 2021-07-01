@@ -444,7 +444,7 @@ content:
         quote: >
           https://developer.ibm.com/components/ibm-mobile-foundation/
         description: | # this will include new lines to allow paragraphs         
-            I acted as an IBM Redbooks Thought Leader and Global Evangelist for IBM, focusing on Java, WebSphere, and Liberty software engineering and architecture. I led a team with more than 60 people and at that time, I was awarded the IBM Hall of Fame Award (3 times), IBM Common Development and Test Outstanding Contribution Award (2 times) and I helped IBM to write their very first Redbook about mobile security for their IBM Mobile Foundation Services (formerly Worklight). Besides, I acted as an advocate for the platform on social media with solid contributions to IBM's social media actions related to technical evangelism in the scope of IBM's social media advocacy. 
+            I acted as an IBM Redbooks Thought Leader and Global Evangelist for IBM, focusing on IBM Mobile, IBM Mobile Foundation Services (Worklight/Cordova), and IBM Mobile Security.  I helped IBM to write their very first Redbook about mobile security for their IBM Mobile Foundation Services (formerly Worklight). Besides, I acted as an advocate for the platform on social media with solid contributions to IBM's social media actions related to technical evangelism in the scope of IBM's social media advocacy. 
             
   - title: 
     layout: list # Type of content section (list/text)
@@ -457,6 +457,7 @@ content:
         quote: >
           https://developer.ibm.com/depmodels/cloud/
         description: | # this will include new lines to allow paragraphs           
+            I acted as a Senior IT Specialist and global Technical Lead for IBM's Common Development and Test (CDT) and Development and Support Teams (DST) in IBM, focusing on Java, WebSphere, and Liberty software engineering and architecture. I led a team with more than 60 people at that time, and I was responsible for the entire IBM's internal development and operations environments, including development, test, and production environments and systems. This role involved leadership and management of teams responsible for several mission-critical on-premises and cloud-based data centers and all the systems running on those environments (more than 600 applications). IBM awarded me the IBM Hall of Fame Award (3 times), IBM Common Development and Test Outstanding Contribution Award (2 times) due to my solid contributions during my tenure in the role, including the deployment of IBM's first Java/WebSphere datacenter in Beijing, China.
 
   - title: 
     layout: list # Type of content section (list/text)
