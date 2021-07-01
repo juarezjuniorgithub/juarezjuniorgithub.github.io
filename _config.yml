@@ -356,7 +356,7 @@ content:
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs
-            I acted as director responsible for their strategy and developer advocacy programs and activities in EMEA, with a focus on Blockchain and Java technologies. Acted as a leader concerning all the business development activities, customer and C-Level engagements, presentations at technical conferences, webinars and hackathons.
+            I acted as Director responsible for their strategy and developer advocacy programs and activities in EMEA, with a focus on Blockchain and Java technologies. Acted as a leader concerning all the business development activities, customer and C-Level engagements, presentations at technical conferences, webinars and hackathons.
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -368,7 +368,7 @@ content:
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs            
-            I acted as manager responsible for their strategy and developer advocacy programs and activities in EMEA, with a focus on Blockchain and Java technologies. Acted as a leader concerning all the business development activities, customer and C-Level engagements, presentations at technical conferences, webinars and hackathons.
+            I acted as Manager responsible for their strategy and developer advocacy programs and activities in EMEA, with a focus on Blockchain and Java technologies. Acted as a leader concerning all the business development activities, customer and C-Level engagements, presentations at technical conferences, webinars and hackathons.
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -380,7 +380,7 @@ content:
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs 
-            I acted as the leader for Oracle Blockchain Evangelist in EMEA, I participated in 80+ Blockchain opportunities and projects in EMEA. I led the DevRel programs, business development, and strategy for the main Blockchain-related opportunities in EMEA, where I helped customers to refine the vision for their solutions as well as architected (or rearchitected) their solutions. I worked on more than 80 Blockchain-related PoCs and MVPs in total, ending up with more than 20 Blockchain networks in production for customers in the EMEA region. Customers and SCM-related business processes included Circulor, Retraced/CANO, Chaincubed, Everledger, GLC, Gov of Georgia (MOF), iPoint, Gov. of Belarus - NCA, SDK.finance, Unchain.io, and Terex just to name a few of them. I have 5 years of experience with Hyperledger and Blockchain (trained by IBM back in 2016) and two years with Ethereum and Solidity. Advanced knowledge and experience with Azure Blockchain, Oracle Blockchain Platform, and Hyperledger. 
+            I acted as the leader for Oracle Blockchain Evangelist in EMEA. I led the DevRel programs, business development, and strategy for the main Blockchain-related opportunities in EMEA and,  I participated in 80+ Blockchain opportunities and projects in EMEA. I helped customers in refining the vision for their solutions to architect (or rearchitected) their solutions. I worked on more than 80 Blockchain-related PoCs and MVPs in total, ending up with more than 20 Blockchain networks in production for customers in the EMEA region. Customers and SCM-related business processes included Circular, Retraced/CANO, Chaincubed, Everledger, GLC, Gov of Georgia (MOF), iPoint, Gov. of Belarus - NCA, SDK.finance, Unchain.io, and Terex, to name a few of them. I have five years of experience with Hyperledger and Blockchain (trained by IBM back in 2016) and two years with Ethereum and Solidity, advanced knowledge and experience with Azure Blockchain, Oracle Blockchain Platform, and Hyperledger. 
 
   - title: 
     layout: list # Type of content section (list/text)
