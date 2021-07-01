@@ -343,7 +343,7 @@ content:
         quote: >
           https://developer.microsoft.com/en-ie/
         description: | # this will include new lines to allow paragraphs
-            Developer Engagement and Relations Lead. I oversee all the developer outreach activities including developer programs, customer and social media interactions, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, local meetups, technical content creation and curation (articles and blog posts), implementation of code samples and technical guides as well as events sponsorship, organization, and promotion.
+            I’m currently playing a role as the Azure Developer Engagement Lead for Microsoft in Ireland. The developer outreach activities I manage comprise community collaboration and feedback management, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, and local meetups. Concerning the last couple of fiscal years in Microsoft (FY20, FY21), I delivered results above and beyond all the KPIs and ambitions for the developer engagement programs I manage (12 programs). From a technical standpoint, I’m the Azure Blockchain Developer Advocate for Microsoft in Western Europe (14 countries) and supported many engagements in the area.
   
   - title: 
     layout: list # Type of content section (list/text)
@@ -356,7 +356,7 @@ content:
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs
-
+            I acted as director responsible for their strategy and developer advocacy programs and activities in EMEA, with a focus on Blockchain and Java technologies. Acted as a leader concerning all the business development activities, customer and C-Level engagements, presentations at technical conferences, webinars and hackathons.
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -368,7 +368,7 @@ content:
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs            
-
+            I acted as manager responsible for their strategy and developer advocacy programs and activities in EMEA, with a focus on Blockchain and Java technologies. Acted as a leader concerning all the business development activities, customer and C-Level engagements, presentations at technical conferences, webinars and hackathons.
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -380,6 +380,7 @@ content:
         quote: >
           https://developer.oracle.com/
         description: | # this will include new lines to allow paragraphs 
+            I acted as the leader for Oracle Blockchain Evangelist in EMEA, I participated in 80+ Blockchain opportunities and projects in EMEA. I led the DevRel programs, business development, and strategy for the main Blockchain-related opportunities in EMEA, where I helped customers to refine the vision for their solutions as well as architected (or rearchitected) their solutions. I worked on more than 80 Blockchain-related PoCs and MVPs in total, ending up with more than 20 Blockchain networks in production for customers in the EMEA region. Customers and SCM-related business processes included Circulor, Retraced/CANO, Chaincubed, Everledger, GLC, Gov of Georgia (MOF), iPoint, Gov. of Belarus - NCA, SDK.finance, Unchain.io, and Terex just to name a few of them. I have 5 years of experience with Hyperledger and Blockchain (trained by IBM back in 2016) and two years with Ethereum and Solidity. Advanced knowledge and experience with Azure Blockchain, Oracle Blockchain Platform, and Hyperledger. 
 
   - title: 
     layout: list # Type of content section (list/text)
@@ -392,6 +393,7 @@ content:
         quote: >
           https://www.ibm.com/watson
         description: | # this will include new lines to allow paragraphs 
+            Redbooks Thought Leader for IBM Mobile and IBM Technical Rock Star for Cloud, awards received as a result of my technical expertise. I’ve acted as a Technical Evangelist for the IBM Watson Cloud and MobileFirst initiatives. Excellent social media actions with outstanding contributions to IBM in the scope of their IBM social media residency programs.
 
   - title: 
     layout: list # Type of content section (list/text)
@@ -404,7 +406,8 @@ content:
         quote: >
           https://maxtrack.com.br/#sobre
         description: | # this will include new lines to allow paragraphs 
-
+            I acted as a Software and Solutions Architect (IoT and DevOps) for their MaxCloud systems. We migrated several on-premise systems to the cloud (AWS). The systems were composed of several Java Enterprise applications, Android clients, C and C++ clients and C++ server components. We applied a cloud-native approach and used Docker as part of their IT transformation and modernization project.
+  
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -416,6 +419,7 @@ content:
         quote: >
           http://sodep.com.br/en/solucoes/
         description: | # this will include new lines to allow paragraphs 
+            I acted as a Software Architect and Developer for their Minetrack solution, a fleet management software aimed at the mining industry. I developed several Java, Android and IoT component as well as helped to optimized their existing environments and JVM (Java Virtual Machine) based systems. The systems comprised Java EE server side components, Android clients, ZigBee and Xbee clients, C and Arduino based clients (IoT) and LBS hardware modules.
 
   - title: 
     layout: list # Type of content section (list/text)
