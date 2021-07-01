@@ -469,7 +469,8 @@ content:
         quote: >
           https://www.castgroup.com.br/pt/
         description: | # this will include new lines to allow paragraphs   
-
+            I acted as a Senior Java Software Architect and Technology Evangelist and Mentor for Powerlogic's Open-Source jCompany framework. I engaged with customers, universities, partners and also delivered talks in the scope of several technical conferences as well.
+            
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -481,7 +482,7 @@ content:
         quote: >
           https://www.indt.org.br/about-us
         description: | # this will include new lines to allow paragraphs    
-
+            I acted as a Senior Mobile Software Architect and Consultant in the scope of several projects, comprising technologies like Java Micro Edition, Symbian C++, Python for S60 (PyS60), and Nokia Maemo (Mobile Linux), among others.
   - title: 
     layout: list # Type of content section (list/text)
     content:
