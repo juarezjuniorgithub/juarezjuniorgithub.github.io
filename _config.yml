@@ -506,7 +506,8 @@ content:
         quote: >
           https://www.castgroup.com.br/pt/
         description: | # this will include new lines to allow paragraphs         
-
+            I acted as a Java Architect as part of Powerlogic's first software engineering team in a project to create their jCompany Java EE framework, which became quite successful. I helped them with several modules and led the creation of a couple of component modules called jMonitor and jDocs respectively.
+          
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -518,7 +519,7 @@ content:
         quote: >
           https://www.unisys.com/offerings/application-services
         description: | # this will include new lines to allow paragraphs    
-
+            I acted as a Java Security Architect for Unisys to architect and code several security-related components to support their SSO (Single Sign-On) modules. The modules supported all the security and non-functional requirements of an integration project with six (6) legacy systems, a workflow solution, an LDAP cluster, a cluster of Java EE servers, and two mainframe systems.
   - title: 
     layout: list # Type of content section (list/text)
     content:
