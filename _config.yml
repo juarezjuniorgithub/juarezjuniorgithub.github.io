@@ -482,7 +482,7 @@ content:
         quote: >
           https://www.indt.org.br/about-us
         description: | # this will include new lines to allow paragraphs    
-            I acted as a Senior Mobile Software Architect and Consultant in the scope of several projects, comprising technologies like Java Micro Edition, Symbian C++, Python for S60 (PyS60), and Nokia Maemo (Mobile Linux), among others.
+            I acted as a Senior Mobile Software Architect and Consultant in the scope of several projects, comprising technologies like Java Micro Edition, Symbian C++, Python for S60 (PyS60), and Nokia Maemo/MeeGo (Mobile Linux), among others.
   - title: 
     layout: list # Type of content section (list/text)
     content:
@@ -494,7 +494,7 @@ content:
         quote: >
           https://www.unisys.com/offerings/application-services
         description: | # this will include new lines to allow paragraphs    
-            I acted as the Lead Software Architect for Unisys Java Platforms in the scope of their Intel-based ES7000 line of servers.  I played a role as the Architect and maintainer of their main Java development framework in LatAm called UGOFramework (Unisys Global Outsourcing framework). I architected and helped Unisys with the modernization of almost 20 systems from their COBOL mainframe-based systems to Java Enterprise Edition. This project comprised a real estate solution for CAIXA bank. At last, I supported Unisys with the validation of the JBoss Application Server (part of JBoss Group at that time, before it being acquired by Red Hat) as the Java Application Server for Unisys' line of enterprise servers.
+            I acted as the Lead Software Architect for Unisys Java Platforms in the scope of their Java projects.  I played a role as the Architect, creator, and maintainer of their main Java development framework in LatAm called UGOFramework (Unisys Global Outsourcing framework). I architected and helped Unisys in its IT transformation and modernization project for almost 20 systems from their COBOL mainframe-based systems to Java Enterprise Edition. This project comprised a real estate solution for CAIXA bank. At last, I supported Unisys with the validation of the JBoss Application Server (part of JBoss Group at that time, before its acquisition by Red Hat) as the Java Application Server for Unisys' line of enterprise servers (Intel-based ES7000 servers).
   - title: 
     layout: list # Type of content section (list/text)
     content:
