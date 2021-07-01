@@ -394,7 +394,6 @@ content:
           https://www.ibm.com/watson
         description: | # this will include new lines to allow paragraphs 
             I acted as a Senior Software Architect and Evangelist for IBM Watson in Ireland, focusing on Java software engineering and architecture. At that time, I was awarded four (4) times in a row as an IBM Technical Rock Star for Cloud in Europe due to solid contributions to IBM Cloud,  eminence, and technical expertise. Excellent social media actions related to technical evangelism in the scope of IBM's social media advocacy. 
-
   - title: 
     layout: list # Type of content section (list/text)
     content:
