@@ -531,7 +531,7 @@ content:
         quote: >
           https://www.accenture.com/ie-en/industries/industrial-equipment-index
         description: | # this will include new lines to allow paragraphs  
-            I acted as a Software and Hardware Developer to support the design and implementation of an industrial automation specialist system called SCORE, comprising both the hardware and software designs. The solution used the QNX operating system, Echelon's LonWorks networking protocol, and the C and C++ language. My contributions were more towards the implementation of the hardware and firmware components.
+            I acted as a Software and Hardware Developer to support the design and implementation of an industrial automation specialist system called SCORE, comprising both the hardware and software designs. The solution used the QNX RTOS (Real-Time Operating System), Echelon's LonWorks networking protocol, and the C and C++ language. My contributions were more towards the implementation of the hardware and firmware components.
   - title: 
     layout: list # Type of content section (list/text)
     content:
