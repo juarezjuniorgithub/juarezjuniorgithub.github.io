@@ -89,7 +89,7 @@ content:
       Developer Relations - Presentations and Customer Engagements      
       - [DevRel - Sessionize](https://sessionize.com/juarezjunior)
       - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
-      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1) 
+      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1)      
       - [Blockchain on Azure for Developers](https://mktoevents.com/Microsoft+Event/272492/157-GQE-382?ocid=AID2423380_TWITTER_oo_spl100002029056646)             
       - [Microsoft TechX - Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1462051d571&varPage=agenda)
       - [Microsoft TechX - Highlights by Version 1](https://www.version1.com/nw-cld-maz-highlights-from-microsoft-techx-dublin/)
@@ -108,6 +108,7 @@ content:
       - [Limerick .NET Azure Meetup - Microsoft Developers in Ireland](https://twitter.com/ActionPointTech/status/1187425718495567874)         
       - [Cork .NET Azure Meetup - Azure Blockchain Service for Developers](https://www.youtube.com/watch?v=w5744nDwu0E)    
       - [Sec4Dev - Panel: Cloud Security and Breakout Sessions](https://sec4dev.io/sessions/breakout-sessions-secure-sdlc-security-automation-cloud-security)
+      - [Cloud Lunch and Learn Marathon - Introduction to Blockchain and Blockchain on Azure](https://www.youtube.com/watch?v=obSpCN_kMQk&list=PL2GvM7xKnvFF0vFgasQJQ8fBqwyad4w62&index=65)
       - [Azure Blockchain Zürich - Introduction to Blockchain and Blockchain on Azure](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html) 
       - [Azure Blockchain Zürich - CORDA on Azure](https://www.meetup.com/Azure-Blockchain-Zurich/events/rkbkhryzpblc/)
       - [Azure Blockchain Zürich - CORDA on Azure - Social](https://www.linkedin.com/feed/update/urn:li:activity:6600515125298372609/)
@@ -544,6 +545,7 @@ content:
           https://www.accenture.com/ie-en/industries/industrial-equipment-index
         description: | # this will include new lines to allow paragraphs           
             I acted as a Software and Automation Systems Developer to support the implementation of several industrial automation systems. The solutions comprised some SCADA (Supervisory Control and Data Acquisition) systems, PLCs (Programmable Logic Controllers), the C and C++ programming languages, and Microsoft Visual C++. 
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -552,6 +554,15 @@ content:
         link: www.lyit.ie     
         caption: 2021
         sub_title: MSc. Computing in DevOps
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: National College of Ireland
+        link: https://www.ncirl.ie/
+        caption: 2021
+        sub_title: HD in Science in Computing - Cybersecurity
 
   - title: 
     layout: list # Type of content section (list/text)
