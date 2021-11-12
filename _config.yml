@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I’m Juarez Junior, Azure Developer Engagement Lead at Microsoft. Previously, a Principal Developer Advocate - Blockchain at Oracle and, Thought Leader and Technical Evangelist at IBM.
 
-  My current interests are: Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, SolutionsArchitecture, SoftwareArchitecture, Startups, Emerging Technologies.
+  My current interests are: Blockchain, IoT, Hyperledger, Ethereum, Corda, Rust, Kotlin, Java, Go, Solidity, Python, Cloud, DevOps, Docker, Kubernetes, Mobile, AI, Solutions Architecture, Software Architecture, Startups, Emerging Technologies.
 
 content:
     
