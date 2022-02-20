@@ -172,9 +172,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Blockchain, Hyperledger, Quorum, CORDA, Solidity
-      - [Azure SQL Database Ledger — Overview] (https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
-      - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)
-      - [Microsoft Loves NodeConf Remote 2021] (https://www.nearform.com/blog/microsoft-loves-nodeconf-remote-2021/)
+      - [Azure SQL Database Ledger — Overview](https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
+      - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)   
       - [The Trinity in Exponential Technologies: Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
       - [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)    
       - [How to Integrate Blockchain Technology into Your Applications](https://www.slideshare.net/juarezjunior/how-to-integrate-blockchain-technology-into-your-applications)  
@@ -212,7 +211,7 @@ content:
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3: Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
       
       Java, Python, Golang, Solidity, Javascript
-      - [Quick and easy Javascript testing with PlayWright] (https://juarezjunior.medium.com/quick-and-easy-javascript-testing-with-playwright-8507e1407d60)
+      - [Quick and easy Javascript testing with PlayWright](https://juarezjunior.medium.com/quick-and-easy-javascript-testing-with-playwright-8507e1407d60)
       - [Blockchain for Java Developers - Cloud Conference Day](https://www.slideshare.net/juarezjunior/blockchain-for-java-developers-cloud-conference-day)
       - [Project Helidon-Introduction to Microservices Development with Java](https://juarezjunior.medium.com/project-helidon-introduction-to-microservices-development-with-java-90f7fa73d836)
       - [Blockchain for Python Developers - Pyjamas Conf 2020](https://www.slideshare.net/juarezjunior/blockchain-for-python-developers-pyjamas-conf-2020)      
