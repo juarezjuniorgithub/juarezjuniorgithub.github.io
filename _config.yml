@@ -172,7 +172,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Blockchain, Hyperledger, Quorum, CORDA, Solidity
-      - [Azure SQL Database Ledger — Overview](https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
+      - [Azure SQL Database Ledger](https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
       - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)   
       - [The Trinity in Exponential Technologies: Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
       - [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)    
