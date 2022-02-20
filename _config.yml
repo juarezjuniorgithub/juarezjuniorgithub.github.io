@@ -89,12 +89,24 @@ content:
       Developer Relations - Presentations and Customer Engagements      
       - [DevRel - Sessionize](https://sessionize.com/juarezjunior)
       - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
-      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1)      
+      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1) 
+      - [Microsoft Loves NodeConf Remote 2021] (https://www.nearform.com/blog/microsoft-loves-nodeconf-remote-2021/)
+      - [Microsoft Loves NodeConf Remote 2021 - TW] (https://twitter.com/NodeConfRemote/status/1449377589752176646)
+      - [BRIFW - Brazil Immersive Fashion Week - Blockchain 101] (https://brifw.com/festival-2021/)
+      - [BRIFW - Brazil Immersive Fashion Week - Blockchain 101 - pt-BR] (Brazil Immersive Fashion Week - Blockchain 101)
+      - [BRIFW - Brazil Immersive Fashion Week - Immersive Talk - Blockchain 101] (https://twitter.com/juarezjunior/status/1452949631097257987)        
+      - [Microsoft Ignite 2021 - Get to know the dev communities and partners in Ireland] (https://myignite.microsoft.com/sessions/15fe5d38-2fb1-488c-8e9d-371e5ada2180?source=sessions)
+      - [Microsoft Ignite 2021 - Get to know the dev communities and partners in Ireland - YT] (https://www.youtube.com/watch?v=r7wmz4-RXM0)            
       - [Blockchain on Azure for Developers](https://mktoevents.com/Microsoft+Event/272492/157-GQE-382?ocid=AID2423380_TWITTER_oo_spl100002029056646)             
+      - [Microsoft Webinar: Machine Learning at scale with Microsoft and Kainos] (https://mktoevents.com/Microsoft+Event/304788/157-GQE-382)
+      - [Microsoft Webinar: Cybersecurity Day with Microsoft and Avanade] (https://mktoevents.com/Microsoft+Event/308598/157-GQE-382)
+      - [Test.js Summit - Talk: Microsoft Loves Javascript] (https://twitter.com/TestJSSummit/status/1459308792785608707)
+      - [Test.js Summit - Workshop: Static Web Apps demo – CI/CD, Deployment and Test Pipeline on Azure (hands-on lab)] (https://portal.gitnation.org/contents/static-web-apps-demo-cicd-deployment-and-test-pipeline-on-azure)
       - [Microsoft TechX - Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1462051d571&varPage=agenda)
       - [Microsoft TechX - Highlights by Version 1](https://www.version1.com/nw-cld-maz-highlights-from-microsoft-techx-dublin/)
       - [Microsoft TechX - Event Report by Version 1](https://medium.com/version-1/a-day-at-microsoft-techx-dublin-28a7abb71c9c)
       - [Workshop: Blockchain on Azure for Developers](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x9650633abcd)
+      - [Conf42 Python 2022 - Microsoft loves Conf42 Python] (https://www.conf42.com/2022-01-25-microsoft-loves-conf42-python)
       - [Guest Lecturer - Hyperledger Technology Workshop - DLT Certification Program - WBS UK](https://www.flickr.com/photos/15201803@N00/48974460052/in/album-72157632977371930/)
       - [Introduction to Blockchain - IT in Dublin Meetup](https://www.flickr.com/photos/15201803@N00/albums/72157670950525778)
       - [Introduction to Blockchain and Blockchain on Azure - Portuguese](https://twitter.com/CloudLunchLearn/status/1393031069100818439)
@@ -108,6 +120,7 @@ content:
       - [Limerick .NET Azure Meetup - Microsoft Developers in Ireland](https://twitter.com/ActionPointTech/status/1187425718495567874)         
       - [Cork .NET Azure Meetup - Azure Blockchain Service for Developers](https://www.youtube.com/watch?v=w5744nDwu0E)    
       - [Sec4Dev - Panel: Cloud Security and Breakout Sessions](https://sec4dev.io/sessions/breakout-sessions-secure-sdlc-security-automation-cloud-security)
+      - [Sec4dev - Panel Speaker] (https://sec4dev.io/speakers/juarez-barbosa-junior)
       - [Cloud Lunch and Learn Marathon - Introduction to Blockchain and Blockchain on Azure](https://www.youtube.com/watch?v=obSpCN_kMQk&list=PL2GvM7xKnvFF0vFgasQJQ8fBqwyad4w62&index=65)
       - [Azure Blockchain Zürich - Introduction to Blockchain and Blockchain on Azure](https://info.microsoft.com/WE-DevOps-WBNR-FY21-11Nov-20-MicrosoftDevOpsForum-SRDEM47846_LP02OnDemandRegistration-ForminBody.html) 
       - [Azure Blockchain Zürich - CORDA on Azure](https://www.meetup.com/Azure-Blockchain-Zurich/events/rkbkhryzpblc/)
@@ -159,7 +172,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Blockchain, Hyperledger, Quorum, CORDA, Solidity
+      - [Azure SQL Database Ledger — Overview] (https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
       - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)
+      - [Microsoft Loves NodeConf Remote 2021] (https://www.nearform.com/blog/microsoft-loves-nodeconf-remote-2021/)
       - [The Trinity in Exponential Technologies: Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
       - [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)    
       - [How to Integrate Blockchain Technology into Your Applications](https://www.slideshare.net/juarezjunior/how-to-integrate-blockchain-technology-into-your-applications)  
@@ -196,7 +211,8 @@ content:
       - [Oracle Blockchain Cloud Service — Invoke Chaincode from a Visual Builder Cloud Service application, Part 1 — Connecting VBCS to Oracle Blockchain](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-from-a-visual-builder-cloud-service-application-8f222626cde3)
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3: Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
       
-      Java, Python, Golang, Solidity
+      Java, Python, Golang, Solidity, Javascript
+      - [Quick and easy Javascript testing with PlayWright] (https://juarezjunior.medium.com/quick-and-easy-javascript-testing-with-playwright-8507e1407d60)
       - [Blockchain for Java Developers - Cloud Conference Day](https://www.slideshare.net/juarezjunior/blockchain-for-java-developers-cloud-conference-day)
       - [Project Helidon-Introduction to Microservices Development with Java](https://juarezjunior.medium.com/project-helidon-introduction-to-microservices-development-with-java-90f7fa73d836)
       - [Blockchain for Python Developers - Pyjamas Conf 2020](https://www.slideshare.net/juarezjunior/blockchain-for-python-developers-pyjamas-conf-2020)      
