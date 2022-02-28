@@ -585,7 +585,7 @@ content:
         caption: 2022
         sub_title: PG in Digital Entrepreneurship
 
-  - title: Education # Title for the section
+  - title: 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
