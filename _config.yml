@@ -383,7 +383,7 @@ content:
         quote: >
           https://developer.microsoft.com/en-ie/
         description: | # this will include new lines to allow paragraphs
-            I’m currently playing a role as the Azure Developer Relations Lead for Microsoft in Ireland. The developer outreach activities I manage comprise community collaboration and feedback management, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, and local meetups. Concerning the last couple of fiscal years in Microsoft (FY20, FY21), I delivered results above and beyond all the KPIs and ambitions for the developer engagement programs I manage (12 programs). From a technical standpoint, I’m the Azure Blockchain Developer Advocate for Microsoft in Western Europe (14 countries) and supported many engagements in the area.
+            I’m currently playing a role as the Azure Developer Relations Lead for Microsoft in Ireland. The developer outreach activities I manage comprise community collaboration and feedback management, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, and local meetups. Concerning the last couple of fiscal years in Microsoft (FY20, FY21), I delivered results above and beyond all the KPIs and ambitions for the DevRel programs I manage (12 programs). From a technical standpoint, I’m the Azure Blockchain Developer Advocate for Microsoft in Western Europe (14 countries) and supported many engagements in the area.
   
   - title: 
     layout: list # Type of content section (list/text)
