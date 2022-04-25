@@ -189,7 +189,7 @@ content:
   - title: Content - blog posts, slide decks, articles
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Blockchain, Hyperledger, Quorum, CORDA, Solidity
+      Blockchain, Hyperledger, Quorum, CORDA, Ethereum, Solidity
       - [Azure SQL Database Ledger](https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
       - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)   
       - [The Trinity in Exponential Technologies: Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
@@ -228,8 +228,14 @@ content:
       - [Oracle Blockchain Cloud Service — Invoke Chaincode from a Visual Builder Cloud Service application, Part 1 — Connecting VBCS to Oracle Blockchain](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-from-a-visual-builder-cloud-service-application-8f222626cde3)
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3: Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
       
-      Java, Python, Golang, Solidity, Javascript
+      Java, Python, Golang, Javascript, Android
+      - [Helidon 2 CLI](https://juarezjunior.medium.com/helidon-2-cli-b87af57e228e)
+      - [Cloud Native apps with Helidon 2](https://juarezjunior.medium.com/cloud-native-apps-with-helidon-2-ee44b7f3437b)
+      - [Getting started with Helidon 2](https://juarezjunior.medium.com/getting-started-with-helidon-2-1d0740d1586c)
+      - [Create a Hello World web app for Azure App Service using the Azure Toolkit for Eclipse](https://juarezjunior.medium.com/create-a-hello-world-web-app-for-azure-app-service-using-the-azure-toolkit-for-eclipse-f222333cbf78)
       - [Quick and easy Javascript testing with PlayWright](https://juarezjunior.medium.com/quick-and-easy-javascript-testing-with-playwright-8507e1407d60)
+      - [Building your first static website with Azure Static Web Apps - GitHub](https://juarezjunior.medium.com/building-your-first-static-website-with-azure-static-web-apps-6337e363b571)
+      - [How to Publish Azure Static Web Apps with Azure DevOps - Azure Pipelines](https://juarezjunior.medium.com/how-to-publish-azure-static-web-apps-with-azure-devops-4d21146e879e)
       - [Blockchain for Java Developers - Cloud Conference Day](https://www.slideshare.net/juarezjunior/blockchain-for-java-developers-cloud-conference-day)
       - [Project Helidon-Introduction to Microservices Development with Java](https://juarezjunior.medium.com/project-helidon-introduction-to-microservices-development-with-java-90f7fa73d836)
       - [Blockchain for Python Developers - Pyjamas Conf 2020](https://www.slideshare.net/juarezjunior/blockchain-for-python-developers-pyjamas-conf-2020)      
