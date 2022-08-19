@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.oracle.dev.jdbc.AppTest" time="0.01" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\java-projects\rsi-local-demos\rsipushpub\target\test-classes;C:\java-projects\rsi-local-demos\rsipushpub\target\classes;C:\Users\Juarez\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\rsi\21.6.0.0.1\rsi-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\ojdbc11\21.6.0.0.1\ojdbc11-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\ucp11\21.6.0.0.1\ucp11-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\ojdbc\ons\19.3.0.0\ons-19.3.0.0.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\oraclepki\19.11.0.0\oraclepki-19.11.0.0.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\security\osdt_core\21.6.0.0.1\osdt_core-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\security\osdt_cert\21.6.0.0.1\osdt_cert-21.6.0.0.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Dublin"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IE"/>
+    <property name="sun.boot.library.path" value="C:\jdk-18.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\Juarez\AppData\Local\Temp\surefire17504053357571233560\surefirebooter16596744632715506465.jar C:\Users\Juarez\AppData\Local\Temp\surefire17504053357571233560 2022-08-18T15-38-19_831-jvmRun1 surefire980532321353501786tmp surefire_014876297583421058985tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\java-projects\rsi-local-demos\rsipushpub\target\test-classes;C:\java-projects\rsi-local-demos\rsipushpub\target\classes;C:\Users\Juarez\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\rsi\21.6.0.0.1\rsi-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\ojdbc11\21.6.0.0.1\ojdbc11-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\ucp11\21.6.0.0.1\ucp11-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\ojdbc\ons\19.3.0.0\ons-19.3.0.0.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\jdbc\oraclepki\19.11.0.0\oraclepki-19.11.0.0.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\security\osdt_core\21.6.0.0.1\osdt_core-21.6.0.0.1.jar;C:\Users\Juarez\.m2\repository\com\oracle\database\security\osdt_cert\21.6.0.0.1\osdt_cert-21.6.0.0.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Juarez"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.home" value="C:\jdk-18.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\java-projects\rsi-local-demos\rsipushpub"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Juarez\AppData\Local\Temp\surefire17504053357571233560\surefirebooter16596744632715506465.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2+9-61"/>
+    <property name="user.name" value="Juarez"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Juarez\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Juarez\AppData\Local\Temp\"/>
+    <property name="java.version" value="18.0.2"/>
+    <property name="user.dir" value="C:\java-projects\rsi-local-demos\rsipushpub"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\jdk-18.0.2\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\app\Juarez\product\21c\dbhomeXE\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Git\cmd;C:\jdk-18.0.2\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\Juarez\AppData\Local\Microsoft\WindowsApps;C:\IntelliJ-IDEA-2022.2\bin;;C:\apache-maven-3.8.6\bin;C:\jdk-18.0.2\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18.0.2+9-61"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.oracle.dev.jdbc.AppTest" time="0.003"/>
+</testsuite>
