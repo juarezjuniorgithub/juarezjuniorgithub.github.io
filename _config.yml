@@ -234,6 +234,9 @@ content:
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3: Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
       
       Java, Python, Golang, Javascript, Android
+      - [High-throughput stream processing with the Java Library for Reactive Streams Ingestion (RSI), Virtual Threads, and the Oracle ATP Database](https://medium.com/oracledevs/high-throughput-stream-processing-with-the-java-library-for-reactive-streams-ingestion-rsi-8aa0fc9d167)
+      - [Getting Started with the Java library for Reactive Streams Ingestion (RSI)](https://medium.com/oracledevs/getting-started-with-the-java-library-for-reactive-streams-ingestion-rsi-afbc808e6e24)
+      - [How to create a Helidon Microservices application (MicroProfile) with Maven and Eclipse](https://juarezjunior.medium.com/how-to-create-a-helidon-microservices-application-microprofile-with-maven-and-eclipse-239acd24069)
       - [Helidon 2 CLI](https://juarezjunior.medium.com/helidon-2-cli-b87af57e228e)
       - [Cloud Native apps with Helidon 2](https://juarezjunior.medium.com/cloud-native-apps-with-helidon-2-ee44b7f3437b)
       - [Getting started with Helidon 2](https://juarezjunior.medium.com/getting-started-with-helidon-2-1d0740d1586c)
@@ -288,7 +291,10 @@ content:
       - [Oracle IoT Cloud Service — How to Provision an IoT Enterprise Service Instance](https://juarezjunior.medium.com/oracle-iot-cloud-service-how-to-create-the-iot-enterprise-service-instance-2d9bb7e46d1e)      
       - [What Makes a City Smart?](https://medium.com/@curiocity30/what-makes-a-city-smart-d94e7534f173)      
 
-      DevOps, Databases, AI
+      DevOps, Cloud Native, Databases, AI
+      - [Cloud Native Java with Kubernetes, Spring Boot, Docker, and Minikube](https://juarezjunior.medium.com/cloud-native-java-with-kubernetes-spring-boot-docker-and-minikube-8c997e38f2d)
+      - [Oracle Database XE for Students and Developers on Windows 11](https://juarezjunior.medium.com/oracle-database-xe-for-students-and-developers-on-windows-11-9d91f6b06a89)
+      - [Azure SQL Database Ledger — Overview](https://juarezjunior.medium.com/azure-sql-database-ledger-overview-4d36863fd958)
       - [Azure DevOps with DV and GitHub](https://www.slideshare.net/juarezjunior/azure-devops-with-dv-and-github)
       - [Are we about to fail the Turing Test?](https://medium.com/@curiocity30/are-we-about-to-fail-the-turing-test-cb646d5fc29c)
       - [Artificial Intelligence and Machine Learning with the Oracle Data Science Cloud](https://www.slideshare.net/juarezjunior/artificial-intelligence-and-machine-learning-with-the-oracle-data-science-cloud)
