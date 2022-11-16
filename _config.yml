@@ -623,17 +623,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: LYIT
-        link: www.lyit.ie     
+        title: Atlantic Technological University
+        link: atu.ie     
         caption: 2021
-        sub_title: MSc. Computing in DevOps
+        sub_title: MSc Computing in DevOps
 
   - title: 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: National College of Ireland
-        link: www.ncirl.ie/
+        link: ncirl.ie
         caption: 2021
         sub_title: HD in Science in Computing - Cybersecurity
 
