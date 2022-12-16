@@ -108,6 +108,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
+      - [ODSA for Java Developers (Part 4) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Container Apps](https://juarezjunior.medium.com/odsa-for-java-developers-part-4-connecting-to-oracle-adb-from-a-spring-boot-3-0-56fe09bff673)
+      - [ODSA for Java Developers (Part 3) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Spring Apps](https://juarezjunior.medium.com/odsa-for-java-developers-part-3-connecting-to-oracle-adb-from-a-spring-boot-3-0-1ea0006f1a0d)
+      - [ODSA for Java Developers (Part 2) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure App Service](https://juarezjunior.medium.com/odsa-for-java-developers-part-2-connecting-to-oracle-adb-from-a-spring-boot-3-0-b1ebb6296abc)
+      - [ODSA for Java Developers (Part 1) — Introduction to Oracle Database Service for Azure](https://medium.com/oracledevs/odsa-for-java-developers-introduction-to-oracle-database-service-for-azure-part-1-bff24c787055)
       - [Introduction to Oracle JDBC 21c Driver Support for Virtual Threads](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-21c-driver-support-for-virtual-threads-189b918c56f4)
       - [Invoking Stored Procedures with JDBC CallableStatements](https://medium.com/oracledevs/getting-started-with-invoking-stored-procedures-using-jdbc-and-callablestatement-6a247fd1957a)
       - [High-throughput stream processing with the Java Library for Reactive Streams Ingestion (RSI), Virtual Threads, and the Oracle ATP Database](https://medium.com/oracledevs/high-throughput-stream-processing-with-the-java-library-for-reactive-streams-ingestion-rsi-8aa0fc9d167)
