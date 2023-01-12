@@ -401,7 +401,7 @@ content:
         quote: >
           https://www.oracle.com/
         description: | # this will include new lines to allow paragraphs
-            I'm currently playing a role as a Sr. Principal Java Developer Evangelist.   
+            I'm currently playing a role as a Sr. Principal Java Developer Evangelist at Oracle. I focus on developing new code samples, hands-on labs (Oracle LiveLabs), workshops, demos, content (blog posts, videos) highlighting developer tooling and various Java-related and Open-Source projects, and participation in technical conferences and meetups.  
 
   - title: 
     layout: list # Type of content section (list/text)
