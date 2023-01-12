@@ -110,6 +110,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
+      - [ODSA for Java Developers (Part 7) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Container Instances](https://juarezjunior.medium.com/odsa-for-java-developers-part-7-connecting-to-oracle-adb-from-a-spring-boot-3-0-7ac563d117a3)
+      - [ODSA for Java Developers (Part 6) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Kubernetes Service](https://juarezjunior.medium.com/odsa-for-java-developers-part-6-connecting-to-oracle-adb-from-a-spring-boot-3-0-acee889bd222)
       - [ODSA for Java Developers (Part 5) — Connecting to Oracle ADB from a FaaS App with Oracle JDBC on Azure Functions](https://juarezjunior.medium.com/odsa-for-java-developers-part-5-connecting-to-oracle-adb-from-a-faas-app-with-spring-data-jpa-5083793ec168)
       - [ODSA for Java Developers (Part 4) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Container Apps](https://juarezjunior.medium.com/odsa-for-java-developers-part-4-connecting-to-oracle-adb-from-a-spring-boot-3-0-56fe09bff673)
       - [ODSA for Java Developers (Part 3) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Spring Apps](https://juarezjunior.medium.com/odsa-for-java-developers-part-3-connecting-to-oracle-adb-from-a-spring-boot-3-0-1ea0006f1a0d)
