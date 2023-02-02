@@ -317,6 +317,8 @@ content:
       - [Cloud Talks - Revolutionize Java Database App Development with Reactive Streams and Virtual Threads - pt-BR](https://www.cloudconferenceday.com/cloudtalks)
       - [Cloud Talks - Revolutionize Java Database App Development with Reactive Streams and Virtual Threads - pt-BR](https://www.youtube.com/watch?v=x1bY219YdqU)
       - [Cloud Conference Day - Revolutionize Java Database App Development with Reactive Streams and Virtual Threads - pt-BR](https://www.linkedin.com/feed/update/urn:li:activity:6983455087742345216/)
+      - [Multi-cloud App Development with Microsoft Azure and Oracle Cloud Infrastructure](https://www.meetup.com/limerick-dotnet/events/290939996/)
+      - [Multi-cloud App Development with Microsoft Azure and Oracle Cloud Infrastructure](https://www.meetup.com/corkdotnetazure/events/290938172/)
       - [Microsoft Loves NodeConf Remote 2021](https://www.nearform.com/blog/microsoft-loves-nodeconf-remote-2021/)
       - [Microsoft Loves NodeConf Remote 2021 - TW](https://twitter.com/NodeConfRemote/status/1449377589752176646)
       - [Workshop - Static Web Apps with CICD on Azure - GitNation Test.js Summit ](https://portal.gitnation.org/contents/static-web-apps-demo-cicd-deployment-and-test-pipeline-on-azure)
@@ -418,7 +420,7 @@ content:
         quote: >
           https://microsoft.com/en-ie/
         description: | # this will include new lines to allow paragraphs
-            I've played a role as the Azure Developer Relations Lead for Microsoft in Ireland. The developer outreach activities I manage comprise community collaboration and feedback management, online and in-person events such as webinars, technical workshops, conferences, hackathons, training and certification events, and local meetups. Concerning the last couple of fiscal years in Microsoft (FY20, FY21), I delivered results above and beyond all the KPIs and ambitions for the DevRel programs I manage (12 programs). From a technical standpoint, I’m the Azure Blockchain Developer Advocate for Microsoft in Western Europe (14 countries) and supported many engagements in the area.
+            I’ve played a role as an Azure Developer Engagement Lead for Microsoft in Western Europe (WE HQ) and Ireland. I was responsible for all the activities involving developers (communities, meetups, 3rd-party conferences), customer-focused engagements (in collaboration with ATU, CSU, and STU), partner management (with GPS), and Microsoft for Startups (acted as a Mentor in EMEA). I have delivered results above and beyond all the KPIs and ambitions for the Azure Developer Engagement programs I managed (12 DevRel programs total).
   
   - title: 
     layout: list # Type of content section (list/text)
