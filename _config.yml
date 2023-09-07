@@ -73,7 +73,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I've acted as a Mentor for Microsoft for Startups. IBM has nominated me as an IBM Technical Rock Star for Cloud, IBM Redbooks Thought Leader, Technical Evangelist for IBM Mobile, and Nokia Developer Champion. I have received many awards - IBM Manager Choice Award, Superior Community Service Contributions - Forum Nokia Wiki, IBM Hall of Fame Awards, IBM Common Development, Test Outstanding Contribution Awards, and IBM Mobile Enterprise Social Media Residency - Outstanding Contributor.
 
-  Feel free to invite me to speak about Java, Oracle Autonomous Database,  Microservices, Software Architecture, Solutions Architecture, Oracle Cloud Infrastructure (OCI) with Microsoft Azure, Emerging Technologies (IoT, AI, Blockchain, XR), and Cybersecurity.
+  Feel free to invite me to speak about Java, Rust,  Microservices, Software Architecture, Solutions Architecture, Cloud Computing (Oracle Cloud, Azure, AWS, GCP, IBM Cloud), Emerging Technologies (IoT, AI, Blockchain, XR), and Cybersecurity.
 
 content:
     
@@ -110,6 +110,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
+      - [How to send notifications from a Quarkus app to a Telegram Chatbot using Java and the Oracle Database 23c Free — Developer Release](https://medium.com/oracledevs/how-to-send-notifications-from-a-quarkus-app-to-a-telegram-chatbot-using-java-and-the-oracle-6fc6940ac8d5)
+      - [The new BOOLEAN data type in Oracle Database 23c with the Oracle JDBC drivers (23c, 21c) — JDBC type compatibility](https://medium.com/oracledevs/the-new-boolean-data-type-in-oracle-database-23c-with-the-oracle-jdbc-drivers-23c-21c-jdbc-f3252b200838)
+      - [Oracle Database 23c Free — Developer Release for Java Developers with Docker on Windows](https://medium.com/oracledevs/oracle-database-23c-free-developer-release-for-java-developers-with-docker-on-windows-b164a7a61a91)
       - [ODSA for Java Developers (Part 7) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Container Instances](https://juarezjunior.medium.com/odsa-for-java-developers-part-7-connecting-to-oracle-adb-from-a-spring-boot-3-0-7ac563d117a3)
       - [ODSA for Java Developers (Part 6) — Connecting to Oracle ADB from a Spring Boot 3.0 App with Spring Data JPA on Azure Kubernetes Service](https://juarezjunior.medium.com/odsa-for-java-developers-part-6-connecting-to-oracle-adb-from-a-spring-boot-3-0-acee889bd222)
       - [ODSA for Java Developers (Part 5) — Connecting to Oracle ADB from a FaaS App with Oracle JDBC on Azure Functions](https://juarezjunior.medium.com/odsa-for-java-developers-part-5-connecting-to-oracle-adb-from-a-faas-app-with-spring-data-jpa-5083793ec168)
@@ -321,6 +324,33 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Developer Relations - Presentations and Customer Engagements      
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
       - [DevRel - Sessionize](https://sessionize.com/juarezjunior)
       - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
       - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1) 
