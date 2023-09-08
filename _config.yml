@@ -448,6 +448,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             I am playing a leadership role responsible for developer evangelism execution at a global level. I'm responsible for strategy and developer outreach activities comprising developers (communities, meetups, JUGs - Java User Groups, 3rd-party conferences), social media strategy related to technical content and technology conferences, and customer-focused engagements from a technical standpoint. 
             Besides, the developer evangelism motions also comprise developing new code samples, hands-on labs (Oracle LiveLabs - tech workshops), customer-facing demos, content creation (blog posts, videos) highlighting developer tooling and various Java-related and Open-Source projects.
+            
 
   - title: 
     layout: list # Type of content section (list/text)
