@@ -590,11 +590,11 @@ content:
     content:
       - layout: left
         title: Powerlogic (acquired by Cast Group)
-        link: www.powerlogic.com.br        
+        link: https://lps.castgroup.com.br/geral        
         sub_title: Senior Software Architect (Java Technology Mentor) 
         caption: December 2008 - September 2009
         quote: >
-          https://www.castgroup.com.br/pt/
+          https://lps.castgroup.com.br/geral
         description: | # this will include new lines to allow paragraphs   
             I acted as a Senior Java Software Architect and Technology Evangelist and Mentor for Powerlogic's Open-Source jCompany framework. I engaged with customers, universities, partners and also delivered talks in the scope of several technical conferences as well.
             
@@ -627,11 +627,11 @@ content:
     content:
       - layout: left
         title: Powerlogic (acquired by Cast Group)
-        link: www.powerlogic.com.br        
+        link: https://lps.castgroup.com.br/geral        
         sub_title: Java Architect 
         caption: October 2002 - May 2003
         quote: >
-          https://www.castgroup.com.br/pt/
+          https://lps.castgroup.com.br/geral
         description: | # this will include new lines to allow paragraphs         
             I acted as a Java Architect as part of Powerlogic's first software engineering team in a project to create their jCompany Java EE framework, which became quite successful. I helped them with several modules and led the creation of a couple of component modules called jMonitor and jDocs respectively.
           
