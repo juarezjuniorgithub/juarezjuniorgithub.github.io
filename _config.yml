@@ -234,6 +234,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
+      - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
       - [A High-Speed Data Ingestion Microservice in Java Using MQTT, AMQP, and STOMP](https://juarezjunior.medium.com/a-high-speed-data-ingestion-microservice-in-java-using-mqtt-amqp-and-stomp-135724223ae1)
       - [How to send notifications from a Quarkus app to a Telegram Chatbot using Java and the Oracle Database 23c Free — Developer Release](https://medium.com/oracledevs/how-to-send-notifications-from-a-quarkus-app-to-a-telegram-chatbot-using-java-and-the-oracle-6fc6940ac8d5)
       - [The new BOOLEAN data type in Oracle Database 23c with the Oracle JDBC drivers (23c, 21c) — JDBC type compatibility](https://medium.com/oracledevs/the-new-boolean-data-type-in-oracle-database-23c-with-the-oracle-jdbc-drivers-23c-21c-jdbc-f3252b200838)
