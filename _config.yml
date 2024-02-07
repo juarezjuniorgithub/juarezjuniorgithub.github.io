@@ -239,6 +239,7 @@ content:
       Java, Python, Golang, Javascript, Android
       - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
       - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
+      - [Getting to Know the New Spring JDBC Client with the Oracle Database](https://juarezjunior.medium.com/getting-to-know-the-new-spring-jdbc-client-with-the-oracle-database-bf2dfbca3bf2)
       - [A High-Speed Data Ingestion Microservice in Java Using MQTT, AMQP, and STOMP](https://juarezjunior.medium.com/a-high-speed-data-ingestion-microservice-in-java-using-mqtt-amqp-and-stomp-135724223ae1)
       - [Java Persistence with Spring Boot 3, Spring Data JPA with Hibernate, and the Oracle Database 23c Free — Developer Release](https://juarezjunior.medium.com/java-persistence-with-spring-boot-3-spring-data-jpa-with-hibernate-and-the-oracle-database-23c-9c0946d4838f)
       - [Spring Data JDBC with the Oracle Database 23c for Java Developers — Getting Started Guide](https://juarezjunior.medium.com/spring-data-jdbc-with-the-oracle-database-23c-for-java-developers-getting-started-guide-1c4640fc8d27)
