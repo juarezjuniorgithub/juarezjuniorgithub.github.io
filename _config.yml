@@ -75,13 +75,7 @@ content:
   - title: Highlights
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Awards - Developer Relations, Solutions Architecture, Software Architecture and Software Engineering          
-      - [Microsoft- Event Speaker Platinum](https://www.credly.com/badges/3574d574-4638-4f9f-a2cb-95305fa669c8)
-      - [Microsoft- Event Speaker Gold](https://www.credly.com/badges/00190609-ed83-413e-a337-9bdc87db1112)
-      - [Microsoft - Event Speaker Silver](https://www.credly.com/badges/87e92b22-3c04-4332-8d3e-82eec922da2d) 
-      - [Microsoft - Hackathon Leader Silver](https://www.credly.com/earner/earned/badge/4e6f9488-a39a-4b17-8a39-17b0e02d0418) 
-      - [Microsoft - External User Group Silver](https://www.credly.com/badges/29943bc3-c8f7-4af8-9010-7e761a5e079b) 
-      - [Microsoft - Onboarding Buddy Gold](https://www.credly.com/badges/67feae69-f442-4266-a44b-9728514fa49d) 
+      Awards - Developer Relations, Solutions Architecture, Software Architecture and Software Engineering     
       - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
       - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)   
       - [IBM Redbook - Securing Your Mobile Business with IBM Worklight](https://books.google.ie/books?id=qXvJAgAAQBAJ)
@@ -99,16 +93,13 @@ content:
       - [Nokia Developer Champion - 2006 - 2007](https://www.flickr.com/photos/15201803@N00/8550741480/in/set-72157632977371930)
       - [Nokia Developer Champion - 2007 - 2008](https://www.flickr.com/photos/15201803@N00/8549640289/in/set-72157632977371930)
       - [Nokia Developer Champion - 2008 - 2009](https://www.flickr.com/photos/15201803@N00/8549641595/in/set-72157632977371930)
-      - [Nokia Developer Champion - 2009 - 2010](https://www.flickr.com/photos/15201803@N00/8549646971/in/set-72157632977371930)
-      - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)
+      - [Nokia Developer Champion - 2009 - 2010](https://www.flickr.com/photos/15201803@N00/8549646971/in/set-72157632977371930)      
  
   - title: Talks
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Developer Relations - Presentations and Customer Engagements      
-      - [DevRel - Sessionize](https://sessionize.com/juarezjunior)
-      - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
-      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1)       
+      Developer Relations - Presentations and Customer Engagements       
+      - [DevRel - Sessionize](https://sessionize.com/juarezjunior) 
       - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://www.youtube.com/watch?v=HZlQBBNFp8o)      
       - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://2023.geecon.cz/speakers/)
       - [Porto Tech Hub Conference 2023 - Portugal - Revolutionize Java Database App Development with Reactive Streams and Java Virtual Threads](https://portotechhub.com/conference-2023/schedule/)
@@ -231,7 +222,16 @@ content:
       - [MGJUG - Java User Group - Tech Meeting @ UniBH.br](https://www.flickr.com/photos/15201803@N00/albums/72157670327333967)
       - [DFJUG - Marathon for Java (M4J) - Java Certification Preparation Course - Technical English for Java Developers](https://www.flickr.com/photos/15201803@N00/albums/72157678473199848)
       - [FAGOC - 9th Computing Week - Mobile Application Development](https://www.flickr.com/photos/15201803@N00/8550743962/in/album-72157632977371930/)
-      - [UFLA - Federal University of Lavras - Open-Source in Java](https://www.flickr.com/photos/15201803@N00/8549642843/in/album-72157632977371930/)
+      - [UFLA - Federal University of Lavras - Open-Source in Java](https://www.flickr.com/photos/15201803@N00/8549642843/in/album-72157632977371930/)    
+      - [What’s a Developer Advocate?](https://juarezjunior.medium.com/whats-a-developer-advocate-845e6bfdd53d)
+      - [Microsoft- Event Speaker Platinum](https://www.credly.com/badges/3574d574-4638-4f9f-a2cb-95305fa669c8)
+      - [Microsoft- Event Speaker Gold](https://www.credly.com/badges/00190609-ed83-413e-a337-9bdc87db1112)
+      - [Microsoft - Event Speaker Silver](https://www.credly.com/badges/87e92b22-3c04-4332-8d3e-82eec922da2d) 
+      - [Microsoft - Hackathon Leader Silver](https://www.credly.com/badges/4e6f9488-a39a-4b17-8a39-17b0e02d0418) 
+      - [Microsoft - External User Group Silver](https://www.credly.com/badges/29943bc3-c8f7-4af8-9010-7e761a5e079b)
+      - [Microsoft - Onboarding Buddy Gold](https://www.credly.com/badges/67feae69-f442-4266-a44b-9728514fa49d) 
+      - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
+      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1)
   
   - title: Content - blog posts, slide decks, articles
     layout: text
