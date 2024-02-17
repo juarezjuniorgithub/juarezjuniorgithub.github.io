@@ -231,7 +231,7 @@ content:
       - [Microsoft - External User Group Silver](https://www.credly.com/badges/29943bc3-c8f7-4af8-9010-7e761a5e079b)
       - [Microsoft - Onboarding Buddy Gold](https://www.credly.com/badges/67feae69-f442-4266-a44b-9728514fa49d) 
       - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
-      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/page1)
+      - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/albums)
   
   - title: Content - blog posts, slide decks, articles
     layout: text
@@ -314,7 +314,7 @@ content:
       - [Arquitetura Java EE](https://www.slideshare.net/juarezjunior/arquitetura-jee-bpoverview)
       - [JavaRanch Forum](https://coderanch.com/u/27811/Juarez-Alvares-Barbosa-Junior)
 
-      DevOps, Cloud Native, Databases, AI
+      AI, DevOps, Cloud Native, Databases, Others
       - [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 2 — Terraform](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-2-terraform-be3f46a86b37)
       - [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 1 — Bicep](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-1-bicep-da70211e7347)
       - [Cloud Native Java with Kubernetes, Spring Boot, Docker, and Minikube](https://juarezjunior.medium.com/cloud-native-java-with-kubernetes-spring-boot-docker-and-minikube-8c997e38f2d)
@@ -351,7 +351,7 @@ content:
       - [Quorum on Azure Blockchain Service — Part 1 — Create a Blockchain consortium member](https://juarezjunior.medium.com/quorum-on-azure-blockchain-service-part-1-create-a-blockchain-consortium-member-279324efedf)
       - [Quorum on Azure Blockchain Service — Part 2 — Deploy a smart contract with VS Code](https://juarezjunior.medium.com/quorum-on-azure-blockchain-service-part-2-deploy-a-smart-contract-with-vs-code-89dedc63afc)
       - [Quorum on Azure Blockchain Service — Part 3— Interact with your smart contract](https://juarezjunior.medium.com/quorum-on-azure-blockchain-service-part-3-interact-with-your-smart-contract-f9527d08d3d8)
-      - [How-to: Deploy your first Hyperledger Fabric components with Azure Kubernetes Service (AKS)](https://juarezjunior.medium.com/how-to-deploy-your-first-hyperledger-fabric-components-with-azure-kubernetes-service-aks-760563d9d543)
+      - [How-To - Deploy your first Hyperledger Fabric components with Azure Kubernetes Service (AKS)](https://juarezjunior.medium.com/how-to-deploy-your-first-hyperledger-fabric-components-with-azure-kubernetes-service-aks-760563d9d543)
       - [Blockchain — Easier than you think!](https://medium.com/@curiocity30/blockchain-easier-than-you-think-e2a36a59b69d)
       - [Blockchain workshop design thinking and technical workshop](https://www.slideshare.net/juarezjunior/blockchain-workshop-design-thinking-and-technical-workshop)
       - [Oracle Blockchain Experience Day](https://www.slideshare.net/juarezjunior/oracle-blockchain-experience-day)
@@ -370,7 +370,7 @@ content:
       - [Oracle Blockchain Cloud Service — Invoke Chaincode from a Visual Builder Cloud Service application, Part 1 — Connecting VBCS to Oracle Blockchain](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-from-a-visual-builder-cloud-service-application-8f222626cde3)
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3 - Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
 
-      IoT
+      IoT - Internet of Things
       - [Azure IoT Central — Quick hands-on guide](https://juarezjunior.medium.com/azure-iot-central-hands-on-guide-9fdec8e3cd08)
       - [Oracle IoT Cloud Service - Application Development Basics](https://juarezjunior.medium.com/oracle-iot-cloud-service-application-development-basics-9cbe11ce951c)
       - [Oracle IoT Cloud Service — How to Provision an IoT Enterprise Service Instance](https://juarezjunior.medium.com/oracle-iot-cloud-service-how-to-create-the-iot-enterprise-service-instance-2d9bb7e46d1e)      
