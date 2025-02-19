@@ -105,6 +105,7 @@ content:
       - [DevConf.CZ 2024 - Brno, Czech Republic - Blazingly Fast GenAI App Development Java and Spring AI](https://pretalx.com/devconf-cz-2024/talk/UQJLNH/)
       - [JavaForum Nord 2024 - Hannover, Germany - The Trinity in GenAI - Spring AI, LangChain4J and OpenAI](https://javaforumnord.de/2024/speaker/)
       - [BaselOne 2024 - Basel, Switzerland - Langchain4J - An Introduction for Impatient Developers](https://baselone.org/en/baselone-home/)
+      - [BaselOne 2024 - LangChain4J - An introduction for impatient developers](https://www.linkedin.com/posts/baselone_langchain4j-java-python-activity-7242442327389085696-1r9A/)
       - [AI Industrial Summit 2024 - Sofia, Bulgaria - A High-Speed Data Ingestion Solution in Java Using MQTT, AMQP, and STOMP](https://www.iotsummit.tech/speakers.html)
       - [FND _Tech Conf - Romania - Blazingly Fast GenAI App Development With Java and Spring AI](https://gdg.community.dev/events/details/google-gdg-craiova-presents-fnd-conference-2024/)
       - [DevTalks 2024 Cluj-Napoca - A Solid Foundation for GenAI Apps - Exploring Architectural Blueprints for LLM Solutions with Java](https://www.devtalks.ro/cluj#agenda)
@@ -113,6 +114,7 @@ content:
       - [GeeCon 2023 - Prague, Czech Republic - Unleash the power of your applications with Micronaut and GraalVM](https://2023.geecon.cz/speakers/)
       - [I Love Tech Bucharest 2024 - The Trinity in GenAI - Spring AI, LangChain4J and OpenAI](https://www.hipo.ro/locuri-de-munca/ilovetech)
       - [Global Software Architecture Summit 2024 - Barcelona, Spain - A Solid Foundation for GenAI Apps - Exploring Architectural Blueprints for LLM Solutions](https://gsas.io/#speakers)
+      - [GSAS - Artificial Intelligence Takes Center Stage at the Global Software Architecture Summit 2024](https://apiumhub.com/tech-blog-barcelona/global-software-architecture-summit-2024/)
       - [Global Software Architecture Summit 2024 - Barcelona, Spain - A Solid Foundation for GenAI Apps - Exploring Architectural Blueprints for LLM Solutions](https://x.com/gsas_io/status/1815703519413862556)
       - [JavaCro 2024 - Rovjni, Romania - Blazingly Fast GenAI App Development Java and Spring AI](https://2024.javacro.hr/eng/Speakers2)
       - [JavaCro 2024 - Rovjni, Romania - Revolutionize Java Database App Development with Reactive Streams and Virtual Threads](https://www.linkedin.com/posts/pawe%C5%82zaj%C4%85czkowski_knowledgesharing-activity-7221425345751597056-N0lr/)
@@ -243,10 +245,12 @@ content:
       - [DevRel - Presentations](https://www.slideshare.net/juarezjunior/presentations)
       - [DevRel - Photos](https://www.flickr.com/photos/15201803@N00/albums)
   
-  - title: Content - blog posts, slide decks, articles
+  - title: Content - blog posts, slide decks, articles, workshops, hands-on labs
     layout: text
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
+      - [Mastering Observability: A Step-by-Step Guide to OpenTelemetry for Java Developers — Part 1](https://juarezjunior.medium.com/mastering-observability-a-step-by-step-guide-to-opentelemetry-for-java-developers-1f86ed7767dc)
+      - [Mastering Observability: Streamline Java Application Observability with the Oracle JDBC OpenTelemetry Provider — Part 2](https://juarezjunior.medium.com/mastering-observability-streamline-java-application-observability-with-the-oracle-jdbc-79a17759370a)
       - [Straightforward Data Access with Jakarta Data and the Oracle Database](https://juarezjunior.medium.com/straightforward-data-access-with-jakarta-data-and-the-oracle-database-b789b99e4c9b)
       - [Getting started with Oracle’s official contribution to Spring AI](https://juarezjunior.medium.com/get-started-with-oracles-official-contribution-to-spring-ai-253504ca4fd0)
       - [Retrieval-Augmented Generation (RAG) with LangChain4j and the Oracle Database 23ai](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-langchain4j-and-the-oracle-database-23ai-0e09ae2e0d6a)
