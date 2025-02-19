@@ -93,7 +93,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Developer Relations - Presentations and Customer Engagements     
-      - [DevRel - Sessionize](https://sessionize.com/juarezjunior) 
+      - [DevRel - Sessionize - MOST ACTIVE SPEAKER - 2023 & 2024](https://sessionize.com/juarezjunior) 
       - [WeAreDevelopers World Congress 2024 Berlin - Langchain4J - An Introduction for Impatient Developers](https://worldcongress.app.swapcard.com/event/wearedevelopers-world-congress-2024/planning/UGxhbm5pbmdfMjAwMjc2Ng%3D%3D) 
       - [WeAreDevelopers World Congress 2024 Berlin - Langchain4J - An Introduction for Impatient Developers](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7205856232060948480/) 
       - [WeAreDevelopers World Congress 2024 Berlin - Blazingly Fast GenAI App Development using Spring AI](https://www.instagram.com/p/C8B4RBWth1F/) 
@@ -117,6 +117,7 @@ content:
       - [JavaCro 2024 - Rovjni, Romania - Blazingly Fast GenAI App Development Java and Spring AI](https://2024.javacro.hr/eng/Speakers2)
       - [JavaCro 2024 - Rovjni, Romania - Revolutionize Java Database App Development with Reactive Streams and Virtual Threads](https://www.linkedin.com/posts/pawe%C5%82zaj%C4%85czkowski_knowledgesharing-activity-7221425345751597056-N0lr/)
       - [Global Azure Milano 2024 - Milan, Italy - Multi-cloud App Dev for Developers with Microsoft Azure and Oracle Cloud Infrastructure](https://www.azuremeetupmilano.it/e/3317/Global-Azure-Milano-2024)
+      - [TDC - The Developer's Conference - talks / workshops](https://www.thedevconf.com/palestrante/juarez-barbosa-junior)
       - [TDC Florianopolis 2024 - A Trindade em GenAI - Spring AI, LangChain4J e OpenAI - pt-br](https://thedevconf.com/tdc/2024/florianopolis/trilha-arquitetura-java)
       - [TDC Florianopolis 2024 - Criando Aplicativos GenAI em Java com SD4J e ONXX Runtime - pt-br](https://thedevconf.com/tdc/2024/florianopolis/workshop-criando-aplicativos-genai-em-java-com-sd4j-e-onxx)
       - [TDC Sao Paulo 2024 - Session: An Introduction to Machine Learning in Java with the Tribuo Library](https://thedevconf.com/tdc/2024/sao-paulo/trilha-arquitetura-java)
@@ -247,10 +248,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
       - [Straightforward Data Access with Jakarta Data and the Oracle Database](https://juarezjunior.medium.com/straightforward-data-access-with-jakarta-data-and-the-oracle-database-b789b99e4c9b)
+      - [Getting started with Oracle’s official contribution to Spring AI](https://juarezjunior.medium.com/get-started-with-oracles-official-contribution-to-spring-ai-253504ca4fd0)
       - [Retrieval-Augmented Generation (RAG) with LangChain4j and the Oracle Database 23ai](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-langchain4j-and-the-oracle-database-23ai-0e09ae2e0d6a)
       - [Retrieval-Augmented Generation (RAG) with Spring AI, Oracle Database 23ai, and OpenAI](https://juarezjunior.medium.com/retrieval-augmented-generation-rag-with-spring-ai-oracle-database-23ai-and-openai-61281b96d18a)
       - [Quickstart: Connect to Oracle Database 23ai using IntelliJ IDEA](https://juarezjunior.medium.com/quickstart-connect-to-oracle-database-23ai-using-intellij-idea-9f688c2cdd70)
       - [Oracle AI Vector Search for Java Developers with the Oracle Database 23ai](https://medium.com/oracledevs/oracle-ai-vector-search-for-java-developers-with-the-oracle-database-23ai-e29321d23fa0)
+      - [Author: Oracle LiveLab Workshop @ Oracle CloudWorld 2024 - Build GenAI Java Apps with Oracle AI Vector Search, Spring AI, and Cohere](https://livelabs.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=3999)
+      - [Author: Oracle LiveLab Workshop @ Oracle CloudWorld 2023 - How to hook up Telegram Messenger with SpringBoot and the Autonomous Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3701)
       - [A Java Microservice with GraalVM, Micronaut Data, JDK 21, and the Oracle Autonomous Database](https://juarezjunior.medium.com/a-java-microservice-with-graalvm-micronaut-data-jdk-21-and-the-oracle-autonomous-database-10f24759f807)
       - [Developing an Oracle JDBC app with GraalVM Native Image](https://juarezjunior.medium.com/introduction-to-oracle-jdbc-driver-configuration-for-graalvm-native-image-6130e699d03b)
       - [Getting to Know the New Spring JDBC Client with the Oracle Database](https://juarezjunior.medium.com/getting-to-know-the-new-spring-jdbc-client-with-the-oracle-database-bf2dfbca3bf2)
@@ -263,7 +267,7 @@ content:
       - [How to send notifications from a Quarkus app to a Telegram Chatbot using Java and the Oracle Database 23c Free — Developer Release](https://medium.com/oracledevs/how-to-send-notifications-from-a-quarkus-app-to-a-telegram-chatbot-using-java-and-the-oracle-6fc6940ac8d5)
       - [Getting Started with Reactive Relational Database Connectivity and the Oracle R2DBC Driver](https://juarezjunior.medium.com/getting-started-with-r2dbc-reactive-relational-database-connectivity-and-the-oracle-r2dbc-driver-2c50ab1d9e66)
       - [Introduction to JDBC Reactive Extensions with the Oracle Database 23c Free — Developer Release](https://juarezjunior.medium.com/introduction-to-jdbc-reactive-extensions-with-the-oracle-database-23c-free-developer-release-b5a64ac5d194)
-      - [Oracle LiveLab Workshop - How to hook up Telegram Messenger with SpringBoot and the Autonomous Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3701)
+      - [Simplify Data Access with Jakarta Data and Oracle Database - DUBJUG with Otavio Santana](https://www.youtube.com/watch?v=-ENghMK-c0c)
       - [The new BOOLEAN data type in Oracle Database 23c with the Oracle JDBC drivers (23c, 21c) — JDBC type compatibility](https://medium.com/oracledevs/the-new-boolean-data-type-in-oracle-database-23c-with-the-oracle-jdbc-drivers-23c-21c-jdbc-f3252b200838)
       - [The new BOOLEAN data type in Oracle Database 23c with PL/SQL and the JDBC Drivers (21c, 23c)](https://juarezjunior.medium.com/the-new-boolean-data-type-in-oracle-database-23c-with-pl-sql-and-the-jdbc-drivers-21c-23c-c83957e7e21e)
       - [Oracle Database 23c Free — Developer Release for Java Developers with Docker on Windows](https://medium.com/oracledevs/oracle-database-23c-free-developer-release-for-java-developers-with-docker-on-windows-b164a7a61a91)
