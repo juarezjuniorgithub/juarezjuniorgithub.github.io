@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Juarez Barbosa Junior, MSc
-title: Solutions Architect / Software Architect / Developer Relations
+title: Solution Architect / Software Architect / Developer Advocate
 email: juarez.junior@outlook.ie
 website: https://juarezjuniorgithub.github.io/
 
@@ -60,7 +60,7 @@ content:
   - title: Highlights
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Awards - Developer Relations, Solutions Architecture, Software Architecture and Software Engineering     
+      Awards - Software Architecture / Solution Architecture / Software Engineering / Developer Relations
       - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
       - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)   
       - [IBM Redbook - Securing Your Mobile Business with IBM Worklight](https://books.google.ie/books?id=qXvJAgAAQBAJ)
