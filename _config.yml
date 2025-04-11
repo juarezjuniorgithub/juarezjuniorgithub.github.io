@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   I have received many awards, such as Oracle Customer Excellence 2025, Oracle ACE Mentor 2022, IBM Technical RockStar for Cloud, IBM Redbooks Thought Leader and Evangelist for IBM Mobile, Nokia Developer Champion, IBM Manager’s Choice Award, Superior Community Service Contributions—Forum Nokia Wiki, IBM Hall of Fame Awards, IBM Common Development and Test Outstanding Contribution Awards, and IBM Mobile Enterprise Social Media Residency Outstanding Contributor.
 
-    
   
 content:
     
@@ -82,7 +81,7 @@ content:
       - [Nokia Developer Champion - 2009 - 2010](https://www.flickr.com/photos/15201803@N00/8549646971/in/set-72157632977371930)      
  
   
-  - title: Technical Content - blog posts, articles, workshops, labs, code samples, slide decks
+  - title: Technical Content - Full-Stack Developer - blog posts, articles, workshops, labs, code samples, slide decks
     layout: text
     content: | # this will include new lines to allow paragraphs
       Java, Python, Golang, Javascript, Android
@@ -179,9 +178,7 @@ content:
       - [Desenvolvimento de Aplicações para Dispositivos Móveis](https://www.slideshare.net/juarezjunior/desenvolvimento-aplicacoesdispositivosmoveis)
       - [Unisys - Java EE 5](https://www.slideshare.net/juarezjunior/java-ee-5-13732655)
       - [Arquitetura Java EE](https://www.slideshare.net/juarezjunior/arquitetura-jee-bpoverview)
-      - [JavaRanch Forum](https://coderanch.com/u/27811/Juarez-Alvares-Barbosa-Junior)
-
-      AI, DevOps, Cloud Native, Databases, Others
+      - [JavaRanch Forum](https://coderanch.com/u/27811/Juarez-Alvares-Barbosa-Junior)      
       - [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 2 — Terraform](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-2-terraform-be3f46a86b37)
       - [Performance Analysis of Infrastructure as Code (IaC) Tools — Part 1 — Bicep](https://juarezjunior.medium.com/performance-analysis-of-infrastructure-as-code-iac-tools-part-1-bicep-da70211e7347)
       - [Cloud Native Java with Kubernetes, Spring Boot, Docker, and Minikube](https://juarezjunior.medium.com/cloud-native-java-with-kubernetes-spring-boot-docker-and-minikube-8c997e38f2d)
@@ -198,9 +195,17 @@ content:
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 5 - Create Notebooks in Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-5-create-notebooks-in-oracle-machine-3e423a791a7b)
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 6 - Import Excel Data into Oracle Autonomous Database](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-6-import-excel-data-into-oracle-b068d26de6cc)
       - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 7 - Run Notebooks with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-7-run-notebooks-with-oracle-machine-64731155a436)
+      - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3 - Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
       - [GDPR — the new EU General Data Protection Regulation](https://juarezjunior.medium.com/gdpr-the-new-eu-general-data-protection-regulation-d651529435ac)
+      - [Azure IoT Central — Quick hands-on guide](https://juarezjunior.medium.com/azure-iot-central-hands-on-guide-9fdec8e3cd08)
+      - [Oracle IoT Cloud Service - Application Development Basics](https://juarezjunior.medium.com/oracle-iot-cloud-service-application-development-basics-9cbe11ce951c)
+      - [Oracle IoT Cloud Service — How to Provision an IoT Enterprise Service Instance](https://juarezjunior.medium.com/oracle-iot-cloud-service-how-to-create-the-iot-enterprise-service-instance-2d9bb7e46d1e)      
+      - [What Makes a City Smart?](https://medium.com/@curiocity30/what-makes-a-city-smart-d94e7534f173)    
 
-      Blockchain, Hyperledger, Quorum, CORDA, Ethereum, Solidity      
+
+  - title: Technical Content - Blockchain
+    layout: text
+    content: | # this will include new lines to allow paragraphs         
       - [The Trinity in Exponential Technologies - Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
       - [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)    
       - [How to Integrate Blockchain Technology into Your Applications](https://www.slideshare.net/juarezjunior/how-to-integrate-blockchain-technology-into-your-applications)  
@@ -235,13 +240,7 @@ content:
       - [Oracle Blockchain Cloud Service — Chaincode Deployment and Instantiation](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-chaincode-deployment-and-instantiation-748a5772a59e)
       - [Oracle Blockchain Cloud Service — Invoke Chaincode by means of OBCS REST APIs](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-by-means-of-obcs-rest-apis-1f30127ed8c4)
       - [Oracle Blockchain Cloud Service — Invoke Chaincode from a Visual Builder Cloud Service application, Part 1 — Connecting VBCS to Oracle Blockchain](https://juarezjunior.medium.com/oracle-blockchain-cloud-service-invoke-chaincode-from-a-visual-builder-cloud-service-application-8f222626cde3)
-      - [Oracle Autonomous Data Warehouse Cloud Service (ADW), Part 3 - Getting Started with Oracle Machine Learning](https://juarezjunior.medium.com/oracle-autonomous-data-warehouse-cloud-service-adw-part-3-getting-started-with-oracle-machine-1b72224b4112)
-
-      IoT - Internet of Things
-      - [Azure IoT Central — Quick hands-on guide](https://juarezjunior.medium.com/azure-iot-central-hands-on-guide-9fdec8e3cd08)
-      - [Oracle IoT Cloud Service - Application Development Basics](https://juarezjunior.medium.com/oracle-iot-cloud-service-application-development-basics-9cbe11ce951c)
-      - [Oracle IoT Cloud Service — How to Provision an IoT Enterprise Service Instance](https://juarezjunior.medium.com/oracle-iot-cloud-service-how-to-create-the-iot-enterprise-service-instance-2d9bb7e46d1e)      
-      - [What Makes a City Smart?](https://medium.com/@curiocity30/what-makes-a-city-smart-d94e7534f173)      
+  
 
   - title: Certs
     layout: text
