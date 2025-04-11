@@ -81,10 +81,10 @@ content:
       - [Nokia Developer Champion - 2009 - 2010](https://www.flickr.com/photos/15201803@N00/8549646971/in/set-72157632977371930)      
  
   
-  - title: Technical Content - Full-Stack Developer - blog posts, articles, workshops, labs, code samples, slide decks
+  - title: Technical Content - Full-Stack Developer
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Java, Python, Golang, Javascript, Android
+    content: | # this will include new lines to allow paragraphs      
+      Blog posts, articles, workshops, labs, code samples, slide decks
       - [Building AI-Powered Database Apps with Hibernate Vector and the Oracle Database 23ai — Part 2 — Using the Hibernate Vector module with Oracle AI Vector Search](https://juarezjunior.medium.com/building-ai-powered-database-apps-with-hibernate-vector-and-the-oracle-database-23ai-part-2-eabd661577df)
       - [Building AI-Powered Database Apps with Hibernate Vector and the Oracle Database 23ai — Part 1 — Using Hibernate Vector module with Oracle Vector Data Type](https://juarezjunior.medium.com/unleashing-ai-powered-database-apps-mastering-hibernate-vector-with-oracle-database-23ai-f46d9ad8496d)
       - [Unleashing the Power of Vector Data Types with Oracle R2DBC: Accelerating Generative AI Solutions with Reactive Streams and the Oracle Database 23ai](https://juarezjunior.medium.com/unleashing-the-power-of-vector-data-types-with-oracle-r2dbc-accelerating-generative-ai-solutions-bed4f984e67d)
