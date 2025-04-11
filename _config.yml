@@ -206,6 +206,7 @@ content:
   - title: Technical Content - Blockchain
     layout: text
     content: | # this will include new lines to allow paragraphs         
+      Blog posts, articles, workshops, labs, code samples, slide decks
       - [The Trinity in Exponential Technologies - Open Source, Blockchain and Microsoft Azure](https://www.slideshare.net/juarezjunior/the-trinity-in-exponential-technologies-open-source-blockchain-and-microsoft-azure)       
       - [Enterprise Blockchain Application Development using Azure Blockchain Service](https://www.slideshare.net/juarezjunior/enterprise-blockchain-application-development-using-azure-blockchain-service)    
       - [How to Integrate Blockchain Technology into Your Applications](https://www.slideshare.net/juarezjunior/how-to-integrate-blockchain-technology-into-your-applications)  
