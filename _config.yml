@@ -96,6 +96,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs      
       Blog posts, articles, workshops, labs, code samples, slide decks
+      - [The Oracle Database MCP Toolkit — Enabling OAuth 2.0 Authentication in HTTP Streamable Mode](https://juarezjunior.medium.com/the-oracle-database-mcp-toolkit-enabling-oauth2-authentication-in-http-streamable-mode-c2122b311e82)
+      - [The Oracle Database MCP Toolkit — Enabling Static Token Authentication in HTTP Streamable Mode](https://juarezjunior.medium.com/the-oracle-database-mcp-toolkit-enabling-authentication-in-http-streamable-mode-with-a-generated-1c2499380535)
+      - [The Oracle Database MCP Toolkit — Enabling HTTPS in HTTP Streamable Mode](https://juarezjunior.medium.com/the-oracle-database-mcp-toolkit-http-streamable-mode-7f330f6f879d)
       - [Machine Learning in Java with the Tribuo Library and Oracle AI Database 26ai: Unleashing Jupyter Notebooks with IJava](https://juarezjunior.medium.com/machine-learning-in-java-with-the-tribuo-library-and-oracle-ai-database-26ai-unleashing-jupyter-ef4af5d8c5a4)
       - [An Introduction to Oracle Database MCP Toolkit](https://medium.com/@juarezjunior/introduction-to-the-oracle-database-mcp-toolkit-50a22cbc3e4f)
       - [Fine-tuning RAG Applications with Spring AI and Oracle AI Vector Search: A Practical Guide to OracleVectorStore Optimizations](https://medium.com/@juarezjunior/fine-tuning-rag-applications-with-spring-ai-and-oracle-ai-vector-search-a-practical-guide-to-fe9140b29a0e)
