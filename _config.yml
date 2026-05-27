@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   • Software and Solutions Architect with more than 20 years of experience designing and implementing enterprise, mission-critical solutions.
   
-  • Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts, including vector search, RAG workflows, context engineering, SDD, and agentic protocols such as MCP and A2A.
+  • Extensive experience building agents and AI-based solutions with Python using LangChain/LangGraph, Google ADK, Microsoft Agent Framework, and Java using LangChain4J, Spring AI, LangGraph4J, and Tribuo (Machine Learning). Deep knowledge of AI-related concepts, including vector search, RAG workflows, context engineering, SDD, and agentic protocols such as MCP and A2A. Experience with several LLM models and SDKs such as OpenAI, Anthropic, Google Gemini, Cohere, Meta, xAI, NVIDIA and open-source models.
 
   • Certified Java professional with expert-level knowledge and experience in Java, using Spring Boot, Jakarta EE, Hibernate, GraalVM, Micronaut, and Helidon. Front-end (JavaScript, Typescript, React), APIs (GraphQL, REST), and tools such as VS Code, OpenAI Codex, Cline, and Claude Code. Relational, NoSQL, and vector databases.
 
@@ -69,20 +69,22 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Awards - Software Architecture / Solution Architecture / Software Engineering / Developer Relations
-      - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
-      - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)   
-      - [IBM Redbook - Securing Your Mobile Business with IBM Worklight](https://books.google.ie/books?id=qXvJAgAAQBAJ)
-      - [O'Reilly - Securing Your Mobile Business with IBM Worklight](https://learning.oreilly.com/library/view/securing-your-mobile/073843888X/)
-      - [Irish Government Blockchain Hackathon](https://www.youtube.com/watch?v=MRTzLKNPq14)      
-      - [IBM Technical Rock Star for IBM Cloud](https://www.flickr.com/photos/15201803@N00/29191132794/in/photostream/)
-      - [IBM Technical RockStar for IBM Cloud - FY 2016 x 4 times](https://www.flickr.com/photos/15201803@N00/34916035751/in/dateposted-public/)
-      - [IBM Manager's Choice Award - 2016](https://www.flickr.com/photos/15201803@N00/35047881805/in/dateposted-public/)
+      
+      - [Oracle Customer Excellence Award](https://www.flickr.com/photos/15201803@N00/55296666731/in/dateposted-public)
+      - [IBM Manager's Choice Award](https://www.flickr.com/photos/15201803@N00/35047881805/in/dateposted-public/)
       - [IBM Eminence and Performance Awards - IBM Technical Rockstar for Cloud & IBM Manager's Choice Award](https://www.linkedin.com/in/jujunior/detail/treasury/position:721362750/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAAQidAUBnh75F9ppFfR96-YkDay_Szo1rkk%2C1485950401575)&section=position%3A721362750&treasuryCount=3)
-      - [IBM - Technical Residency RTP USA - Mobile Enterprise Social Media Residency](https://www.flickr.com/photos/15201803@N00/8549638887/in/photostream)     
       - [IBM Hall of Fame Award - Outstanding Contribution - Build of Java's Infrastructure for IBM Beijing Data Center](https://www.flickr.com/photos/15201803@N00/8549639133/in/album-72157632977371930/)
       - [IBM Outstanding Contribution Award - Creator of IBM Beijing Data Center Infrastructure Setup](https://www.flickr.com/photos/15201803@N00/8549639209/in/album-72157632977371930/)
       - [IBM Outstanding Contribution Award - Creator of Java Cloud MAD Security Tool](https://www.flickr.com/photos/15201803@N00/8550738356/in/album-72157632977371930/)
-      - [IBM Hall of Fame - Client Appreciation Contribution](https://www.flickr.com/photos/15201803@N00/8549638685/in/album-72157632977371930/)
+      - [IBM Hall of Fame - Client Appreciation Contribution](https://www.flickr.com/photos/15201803@N00/8549638685/in/album-72157632977371930/)      
+      - [IBM Technical Rock Star for IBM Cloud](https://www.flickr.com/photos/15201803@N00/29191132794/in/photostream/)
+      - [IBM Technical RockStar for IBM Cloud - 4x](https://www.flickr.com/photos/15201803@N00/34916035751/in/dateposted-public/)      
+      - [IBM Mobile Thought Leader and Technical Evangelist](https://www.flickr.com/photos/15201803@N00/albums/72157697188449462)
+      - [IBM - Technical Residency RTP USA - Mobile Enterprise Social Media Residency](https://www.flickr.com/photos/15201803@N00/8549638887/in/photostream)           
+      - [IBM Redbooks Author - Securing Your Mobile Business with IBM Worklight](https://play.google.com/store/books/details/Securing_Your_Mobile_Business_with_IBM_Worklight?id=qXvJAgAAQBAJ&gl=US)   
+      - [IBM Redbook - Securing Your Mobile Business with IBM Worklight](https://books.google.ie/books?id=qXvJAgAAQBAJ)
+      - [O'Reilly - Securing Your Mobile Business with IBM Worklight](https://learning.oreilly.com/library/view/securing-your-mobile/073843888X/)
+      - [Irish Government Blockchain Hackathon](https://www.youtube.com/watch?v=MRTzLKNPq14)  
       - [Nokia Developer Wiki Administrator - Superior Community Service Award](https://www.flickr.com/photos/15201803@N00/8549638561/in/photostream)
       - [Nokia Developer Champion - 2006 - 2007](https://www.flickr.com/photos/15201803@N00/8550741480/in/set-72157632977371930)
       - [Nokia Developer Champion - 2007 - 2008](https://www.flickr.com/photos/15201803@N00/8549640289/in/set-72157632977371930)
