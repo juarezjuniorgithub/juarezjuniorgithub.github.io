@@ -92,7 +92,7 @@ content:
       - [Nokia Developer Champion - 2009 - 2010](https://www.flickr.com/photos/15201803@N00/8549646971/in/set-72157632977371930)      
  
   
-  - title: Technical Content - AI / Java / Python / Kotlin / Javascript / DevOps / Cloud / IaC / Kubernetes / IoT 
+  - title: Technical Content - AI / Java / Python / DevOps / Cloud / IaC / Kubernetes / Kotlin / Android / Javascript / IoT
     layout: text
     content: | # this will include new lines to allow paragraphs      
       Blog posts, articles, workshops, labs, code samples, slide decks
